@@ -1,0 +1,1660 @@
+2018-05-25 17:53:40 DEBUG QCConnectionV1:9 - Entering Main Method .. 
+2018-05-25 17:53:40 INFO  QCInitalConnection:42 - >>>>>>>>>> Entering DoInit Method <<<<<<<<<<<
+2018-05-25 17:53:51 DEBUG QCInitalConnection:46 - true Connected
+2018-05-25 17:54:03 DEBUG QCInitalConnection:49 - true Logged In !!!
+2018-05-25 17:54:03 DEBUG QCInitalConnection:51 - Db Name fedex_central_defects_db
+2018-05-25 17:54:07 DEBUG QCInitalConnection:86 - Total Bug List11
+2018-05-25 17:54:08 DEBUG QCGenerateExcel:56 - Calling Create Excel
+2018-05-25 17:54:08 DEBUG QCGenerateExcel:103 - Writesheet.xlsx written successfully
+2018-05-25 17:54:10 DEBUG QCInitalConnection:67 - 3626150
+2018-05-25 17:54:10 DEBUG QCConnectionV1:13 - Project Successfully Conneted..
+2018-05-25 17:54:10 DEBUG QCInitalConnection:164 - >>>>>>>>>> Entering DoInit Method <<<<<<<<<<<
+2018-05-25 17:54:11 DEBUG QCConnectionV1:15 - Project Successfully DisConneted..
+2018-05-25 17:55:32 DEBUG QCConnectionV1:9 - Entering Main Method .. 
+2018-05-25 17:55:32 INFO  QCInitalConnection:42 - >>>>>>>>>> Entering DoInit Method <<<<<<<<<<<
+2018-05-25 17:55:34 DEBUG QCInitalConnection:46 - true Connected
+2018-05-25 17:55:46 DEBUG QCInitalConnection:49 - true Logged In !!!
+2018-05-25 17:55:46 DEBUG QCInitalConnection:51 - Db Name fedex_central_defects_db
+2018-05-25 17:55:51 DEBUG QCInitalConnection:86 - Total Bug List11
+2018-05-25 17:55:51 DEBUG QCGenerateExcel:56 - Calling Create Excel
+2018-05-25 17:55:52 DEBUG QCGenerateExcel:103 - Writesheet.xlsx written successfully
+2018-05-25 17:55:53 DEBUG QCInitalConnection:67 - 3626150
+2018-05-25 17:55:53 DEBUG QCConnectionV1:13 - Project Successfully Conneted..
+2018-05-25 17:55:53 DEBUG QCInitalConnection:164 - >>>>>>>>>> Entering DoInit Method <<<<<<<<<<<
+2018-05-25 17:55:55 DEBUG QCConnectionV1:15 - Project Successfully DisConneted..
+2018-05-25 18:02:31 DEBUG QCConnectionV1:9 - Entering Main Method .. 
+2018-05-25 18:02:31 INFO  QCInitalConnection:33 - >>>>>>>>>> Entering DoInit Method <<<<<<<<<<<
+2018-05-25 18:02:42 DEBUG QCInitalConnection:37 - true Connected
+2018-05-25 18:02:56 DEBUG QCInitalConnection:40 - true Logged In !!!
+2018-05-25 18:02:56 DEBUG QCInitalConnection:42 - Db Name fedex_central_defects_db
+2018-05-25 18:03:00 DEBUG QCInitalConnection:77 - Total Bug List11
+2018-05-25 18:03:00 DEBUG QCGenerateExcel:40 - Calling Create Excel
+2018-05-25 18:03:01 DEBUG QCGenerateExcel:87 - Writesheet.xlsx written successfully
+2018-05-25 18:03:02 DEBUG QCInitalConnection:58 - 3626150
+2018-05-25 18:03:02 DEBUG QCConnectionV1:13 - Project Successfully Conneted..
+2018-05-25 18:03:02 DEBUG QCInitalConnection:155 - >>>>>>>>>> Entering DoInit Method <<<<<<<<<<<
+2018-05-25 18:03:03 DEBUG QCConnectionV1:15 - Project Successfully DisConneted..
+2018-05-25 18:05:16 DEBUG QCConnectionV1:9 - Entering Main Method .. 
+2018-05-25 18:05:16 INFO  QCInitalConnection:33 - >>>>>>>>>> Entering DoInit Method <<<<<<<<<<<
+2018-05-25 18:05:18 DEBUG QCInitalConnection:37 - true Connected
+2018-05-25 18:05:32 DEBUG QCInitalConnection:40 - true Logged In !!!
+2018-05-25 18:05:32 DEBUG QCInitalConnection:42 - Db Name fedex_central_defects_db
+2018-05-25 18:05:41 DEBUG QCInitalConnection:77 - Total Bug List11
+2018-05-25 18:05:42 DEBUG QCGenerateExcel:40 - Calling Create Excel
+2018-05-25 18:05:42 DEBUG QCGenerateExcel:87 - Writesheet.xlsx written successfully
+2018-05-25 18:05:44 DEBUG QCInitalConnection:58 - 3626150
+2018-05-25 18:05:44 DEBUG QCConnectionV1:13 - Project Successfully Conneted..
+2018-05-25 18:05:44 DEBUG QCInitalConnection:155 - >>>>>>>>>> Entering DoInit Method <<<<<<<<<<<
+2018-05-25 18:05:45 DEBUG QCConnectionV1:15 - Project Successfully DisConneted..
+2018-05-25 18:06:42 DEBUG QCConnectionV1:9 - Entering Main Method .. 
+2018-05-25 18:06:42 INFO  QCInitalConnection:33 - >>>>>>>>>> Entering DoInit Method <<<<<<<<<<<
+2018-05-25 18:06:44 DEBUG QCInitalConnection:37 - true Connected
+2018-05-25 18:06:59 DEBUG QCInitalConnection:40 - true Logged In !!!
+2018-05-25 18:06:59 DEBUG QCInitalConnection:42 - Db Name fedex_central_defects_db
+2018-05-25 18:07:05 DEBUG QCInitalConnection:77 - Total Bug List11
+2018-05-25 18:07:06 DEBUG QCGenerateExcel:40 - Calling Create Excel
+2018-05-25 18:07:06 DEBUG QCGenerateExcel:87 - Writesheet.xlsx written successfully
+2018-05-25 18:07:08 DEBUG QCInitalConnection:58 - 3626150
+2018-05-25 18:07:08 DEBUG QCConnectionV1:13 - Project Successfully Conneted..
+2018-05-25 18:07:08 DEBUG QCInitalConnection:155 - >>>>>>>>>> Entering DoInit Method <<<<<<<<<<<
+2018-05-25 18:07:09 DEBUG QCConnectionV1:15 - Project Successfully DisConneted..
+2018-05-25 18:08:10 DEBUG QCConnectionV1:9 - Entering Main Method .. 
+2018-05-25 18:08:10 INFO  QCInitalConnection:33 - >>>>>>>>>> Entering DoInit Method <<<<<<<<<<<
+2018-05-25 18:08:21 DEBUG QCInitalConnection:37 - true Connected
+2018-05-25 18:08:34 DEBUG QCInitalConnection:40 - true Logged In !!!
+2018-05-25 18:08:34 DEBUG QCInitalConnection:42 - Db Name fedex_central_defects_db
+2018-05-25 18:08:42 DEBUG QCInitalConnection:77 - Total Bug List11
+2018-05-25 18:08:43 DEBUG QCGenerateExcel:40 - Calling Create Excel
+2018-05-25 18:08:43 DEBUG QCGenerateExcel:87 - Writesheet.xlsx written successfully
+2018-05-25 18:08:45 DEBUG QCInitalConnection:58 - 3626150
+2018-05-25 18:08:45 DEBUG QCConnectionV1:13 - Project Successfully Conneted..
+2018-05-25 18:08:45 DEBUG QCInitalConnection:155 - >>>>>>>>>> Entering DoInit Method <<<<<<<<<<<
+2018-05-25 18:08:46 DEBUG QCConnectionV1:15 - Project Successfully DisConneted..
+2018-05-25 18:16:38 DEBUG QCConnectionV1:9 - Entering Main Method .. 
+2018-05-25 18:16:38 INFO  QCInitalConnection:33 - >>>>>>>>>> Entering DoInit Method <<<<<<<<<<<
+2018-05-25 18:16:49 DEBUG QCInitalConnection:37 - true Connected
+2018-05-25 18:17:02 DEBUG QCInitalConnection:40 - true Logged In !!!
+2018-05-25 18:17:02 DEBUG QCInitalConnection:42 - Db Name fedex_central_defects_db
+2018-05-25 18:17:07 DEBUG QCInitalConnection:77 - Total Bug List11
+2018-05-25 18:17:07 INFO  QCInitalConnection:148 - -------------------------------------------------------
+2018-05-25 18:17:07 DEBUG QCInitalConnection:149 - <html><body><font color="#000080"><b>Description:                  </b></font>
+<font color="#000080"><b>Enter the below URL in the Browser </b></font>
+<font color="#000080"><b>-------------------------------------------------------------------------------------------------------</b></font>
+<font color="#000080"><b>For Test Environment  L2 enter below URL and credentials</b></font>
+<font color="#000080"><b>https:</b></font>//wwwdev.idev.fedex.com/ratefinder/home?cc=US&language=es
+On FCL Page enter the login details
+UserID: WGRTUSFXF1L2
+Password: test123
+-------------------------------------------------------------------------------------------------------
+For Test Environment  L3 enter below URL and credentials
+https://wwwdrt.idev.fedex.com/ratefinder/home?cc=US&language=es
+On FCL Page enter the login details
+UserID:
+Password:
+-------------------------------------------------------------------------------------------------------
+For Test Environment L6 enter below URL and credentials
+https://wwwtest.fedex.com/ratefinder/home?cc=US&language=es
+On FCL Page enter the login details
+UserID: 
+Password:
+-------------------------------------------------------------------------------------------------------
+On the displayed Ship From/To Page
+Click on the Freight Tab.
+Click on the Rate Quote History tab.
+Verify the contents of the page.
+ 
+<font color="#000080"><b>Expected:                     </b></font>
+On the Displayed Rate Quote History page the page contents should be displayed in Spanish language(No English words should be  observed).
+ 
+<font color="#000080"><b>Actual: </b></font>
+The content below the please note section are displayed in<font color="#000080"><b> </b></font>English
+
+<b>Requirement: </b>
+<b>WGRT1060 Combined SRS v15.doc</b>
+
+<b>ID 519574</b></body></html>
+2018-05-25 18:17:07 INFO  QCInitalConnection:148 - -------------------------------------------------------
+2018-05-25 18:17:07 DEBUG QCInitalConnection:149 - <html>
+<body>
+<div align="left"><font face="Arial"><span style="font-size:8pt">Summary: </span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">WGRT1490_Jan 14 CL_L3C4_144464 - HPRM : HU : Incorrect Translation for the 
+ship button.</span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt"><br /></span></font></div><div align="left"><font face="Arial"><span style="font-size:8pt">URL: 
+https://wwwdrt.idev.fedex.com/ratefinder/home?cc=US&language=en&locId=express</span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">User id: WGRTFRVD        </span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">Pswd: Test1234</span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">OS: Windows 7</span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">Browser: All Browsers</span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt"><br /></span></font></div><div align="left"><font face="Arial"><span style="font-size:8pt">Steps to Reproduce:</span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">1. Access the above URL.</span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">2. go to 
+https://wwwdrt.idev.fedex.com/ratefinder/home?cc=US&language=en&locId=express</span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">3. Login by the given ID and Select any of applications</span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">4. Click FedexEx Logo</span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">5. In the URL remove any text after the fedex.com</span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">6. Click on the your language your are testing HU</span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">7. HPRM module should be displayed.</span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">8. In the From address enter 'United States' and to address 'United Kingdom'.</span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">9. Click Next</span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">10. Enter a weight of 0,25 kg  
+and select Your Packaging</span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">11. Select the rate </span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt"><br /></span></font></div><div align="left"><font face="Arial"><span style="font-size:8pt">View the ship button</span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt"><br /></span></font></div><div align="left"><font face="Arial"><span style="font-size:8pt">Expected Results</span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">Correct translation</span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt"><br /></span></font></div><div align="left"><font face="Arial"><span style="font-size:8pt">Expected Translation</span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">Feladás</span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt"><br /></span></font></div><div align="left"><font face="Arial"><span style="font-size:8pt">Actual Result</span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">Incorrect translation </span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt"><br /></span></font></div><div align="left"><font face="Arial"><span style="font-size:8pt">Current Translation</span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">Szállítás</span></font></div>
+</body>
+</html>
+2018-05-25 18:17:07 INFO  QCInitalConnection:148 - -------------------------------------------------------
+2018-05-25 18:17:07 DEBUG QCInitalConnection:149 - <html>
+<body>
+<div align="left"><font face="Arial"><span style="font-size:8pt"><b>WGRT1730_CL1601_L3C1</b></span><span style="font-size:8pt">:ASR surcharge is unavailable for FedEx Standard Overnight®  and FedEx Economy®  
+for CA region. </span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt"> </span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt"> </span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt"> </span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt"><b>URL: </b></span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">https://wwwdrt.idev.fedex.com/ratefinder/home?source=gh&cc=ca&language=en</span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">OS: Windows 7</span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">Browser: IE 9 </span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt"> </span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt"><b>SRS:</b></span><span style="font-size:8pt"> AT - 153849 International Signature Services</span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt"><b>Req id</b></span><span style="font-size:8pt">: ID 1210037</span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt"> </span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt"><b>Steps to reproduce : </b></span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt"> </span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">1. On the displayed Ship From/To page, Enter following data.</span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">Under Address Information section, Enter the following data. </span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">In &quot;From&quot; section enter the following details  </span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">* Country/Location = <<Canada>> </span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">* ZIP = <<m1m1m1 >> </span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">In &quot;To&quot; section enter the following details  </span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">* Country/Location =<<canada> ></span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">* ZIP = <<m1m1m1>> </span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">Ship to Residence   </span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">On Additional Information section, Enter the following data </span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">*No. of Packages  1</span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">*Weight(LBS)  20 lbs</span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">*Pickup/DropOff  Sche            dule a Pickup</span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">*Shipment Date  Current Date</span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt"> </span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">2. Click on &quot;Get Detailed Quote&quot; button. </span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">3. In Package and shipment details page </span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">Package type   Your Packaging</span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">Declared value   100</span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">4. Click on Add special service button.</span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">5. In the displayed special service page , select Signature type as ASR</span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">6.Click on continue. </span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">7. In the displayed rates and transit time page verify for the display of ASR surcharge for the service type FedEx 
+Standard Overnight®  and FedEx Economy® . </span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt"> </span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt"><b>Expected:</b></span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">Should display ASR surcharge on the mouse over rate quote for FedEx Standard Overnight®  and FedEx 
+Economy® as per the requirment. </span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">  </span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt"><b>Actual result:</b></span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt"> ASR surcharge is unavailable for  FedEx Standard Overnight®  and FedEx Economy® service type. </span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt"> </span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">PFA attachment for reference.</span></font></div>
+</body>
+</html>
+2018-05-25 18:17:07 INFO  QCInitalConnection:148 - -------------------------------------------------------
+2018-05-25 18:17:07 DEBUG QCInitalConnection:149 - <html>
+<body>
+<div align="left"><font face="Arial"><span style="font-size:8pt">Overview : RU: WGRT: Get Rates & Transit Times : Untranslated text if any of products are select</span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt"> </span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">Browsers: All</span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt"> </span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">OS: All</span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt"> </span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">Environmet: L3</span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt"> </span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt"> </span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">Steps to reproduce:</span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt"> </span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">1. Navigate to WGRT with below URL:</span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">https://wwwdrt.idev.fedex.com/ratefinder/home?cc=RU&language=ru&locId=express</span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt"> </span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">2. In the displayed WGRT page Enter</span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt"> </span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">From : US</span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">ZIP : 38017</span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt"> </span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">To : CA</span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">ZIP  : M1M1M1</span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt"> </span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">No. of packages : 1</span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">Weight : 20 LBS</span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">Pickup/Drop-off :  FedEx pickup</span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt"> </span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">3. Click on the Get Detailed Quote button. </span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt"> </span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">4. In the displayed package and shipment details page ,</span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt"> </span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">5. Select Package contents : Products/Commodities</span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt"> </span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">6. Include D/T Estimate check box  is checked</span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt"> </span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">7. Enter the below details : </span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt"> </span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">Package type : Your packaging </span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">Dimensions : L = 5 , W = 5 , H = 5. </span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">Total customs Value : 100 </span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt"> </span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">8. In section no 3 - Product / Commodity Description , select character 'C' </span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt"> </span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">9. Now check any letter and view the options and the description they show </span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt"> </span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">Actual result: The entire options and their desctipions are untranslated for RU on L3C2 build</span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt"> </span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">Expected result: Is this mean't to be translated or left as is on L3</span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt"> </span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">  </span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">  </span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">  </span></font></div>
+</body>
+</html>
+2018-05-25 18:17:07 INFO  QCInitalConnection:148 - -------------------------------------------------------
+2018-05-25 18:17:07 DEBUG QCInitalConnection:149 - <html>
+<body>
+<div align="left"><font face="Arial"><span style="font-size:8pt"><b><u>Test Description</u></b></span><span style="font-size:8pt"> : Not able to navigate rates page for intra UK enabled ID with multiple accounts 
+associated with it (if one of the account is not UK enabled).</span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt"> </span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt"><b><u>Note </u></b></span><span style="font-size:8pt"><b>: </b></span><span style="font-size:8pt;background:#ffff00"><b>Issue only exist when user have multiple accounts and atleast one account is not UK 
+enabled.</b></span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt"> </span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt"><b><u>Test Data</u></b></span><span style="font-size:8pt"> : WGRTGBVD / Test1234</span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt"> </span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt"><b><u>Account number associated with this user :</u></b></span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">a) 450897981 : not UK enabled</span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">b) 450897663 : UK enabled</span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt"> </span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt"><b><u>Requirement ID</u></b></span><span style="font-size:8pt"> : ID 1269782</span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt"> </span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">URL : https://wwwdrt.idev.fedex.com/ratefinder/home?cc=gb&language=en</span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt"> </span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt"><b><u>Step to reproduce :</u></b></span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt"> </span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">1) Navigate to above URL</span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt"> </span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">2) Enter from and to details as</span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt"> </span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">From - UK( BT1)</span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">To - UK (BT1)</span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt"> </span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">3) Enter details in additional information as </span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">No of packages as : 1</span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">Weight : 12 kgs</span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt"> </span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">4) Click on GDQ.</span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt"> </span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">5) Select your packaging.</span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt"> </span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">6) CLick on continue.</span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt"> </span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt"><b><u>Expected </u></b></span><span style="font-size:8pt">: Rates page should be displayed.</span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt"> </span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt"><b><u>Actual </u></b></span><span style="font-size:8pt">: Rates page is not getting displayed. getting error as</span></font><font face="Arial" color="#ff0000"><span style="font-size:8pt"> &quot;</span><span style="font-size:8pt"><b>Fedex.com Rates and Transit Time is 
+unable to process your request. We apologize for the inconvenience,   please try again 
+later. For immediate assistance, please contact Customer Service.</b></span><span style="font-size:8pt">&quot;</span></font><font face="Arial"><span style="font-size:8pt"> </span><span style="font-size:8pt"><b>OR &quot;</b></span></font><font face="Arial" color="#ff0000"><span style="font-size:8pt"><b>Domestic shipping 
+in the United Kingdom requires a specific account registration. Please contact</b></span></font><font face="Arial"><span style="font-size:8pt"><b> </b></span></font><a href="http://www,fedex.com/gb/contact"><font face="Arial" color="#ff0000"><span style="font-size:8pt"><b><u>Customer 
+Service</u></b></span></font></a><font face="Arial"><span style="font-size:8pt"><b>.&quot;</b></span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt"><b> </b></span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt"><b> </b></span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt;background:#ffff00"><b>PFA for reference</b></span></font></div>
+</body>
+</html>
+2018-05-25 18:17:07 INFO  QCInitalConnection:148 - -------------------------------------------------------
+2018-05-25 18:17:07 DEBUG QCInitalConnection:149 - <html>
+<body>
+<div align="left" style="line-height: 9pt; min-height: 9pt; "><font face="Arial"><span style="font-size:8pt">In Home Page ,After clicking the Rate & Ship cub, Hamburger menu is getting misaligned and sub menus/footer links are getting underline.</span></font></div>
+<div align="left" style="line-height: 9pt; min-height: 9pt; "></div>
+<div align="left" style="line-height: 9pt; min-height: 9pt; "></div>
+<div align="left" style="line-height: 9pt; min-height: 9pt; "><font face="Arial"><span style="font-size:8pt">Steps</span></font></div>
+<div align="left" style="line-height: 9pt; min-height: 9pt; "></div>
+<div align="left" style="line-height: 9pt; min-height: 9pt; "><font face="Arial"><span style="font-size:8pt">- Launch the application</span></font></div>
+<div align="left" style="line-height: 9pt; min-height: 9pt; "></div>
+<div align="left" style="line-height: 9pt; min-height: 9pt; "><font face="Arial"><span style="font-size:8pt">- Click on the Rate & Ship cub.</span></font></div>
+<div align="left" style="line-height: 9pt; min-height: 9pt; "></div>
+<div align="left" style="line-height: 9pt; min-height: 9pt; "><font face="Arial"><span style="font-size:8pt">Actual - the hamburger menu is getting misaligned and all sub menu and footers are getting underlined.  </span></font></div>
+<div align="left" style="line-height: 9pt; min-height: 9pt; "></div>
+<div align="left" style="line-height: 9pt; min-height: 9pt; "><font face="Arial"><span style="font-size:8pt">- Able to reproduce in iOS and Android also desktop.</span></font></div>
+</body>
+</html>
+2018-05-25 18:17:07 INFO  QCInitalConnection:148 - -------------------------------------------------------
+2018-05-25 18:17:07 DEBUG QCInitalConnection:149 - <html>
+<body>
+<div align="left" style="line-height: 9pt; min-height: 9pt; "><font face="Arial"><span style="font-size:8pt">Dear Support team,</span></font></div>
+<div align="left" style="line-height: 9pt; min-height: 9pt; "></div>
+<div align="left" style="line-height: 10pt; min-height: 10pt; "><font face="Arial"><span style="font-size:8pt">we have received an enquiry from the CN CS team that </span></font><font face="Arial"><span style="font-size:8pt">a wrong freight charge showed on the website comparing on what she obtained from the CS team.</span></font></div>
+<div align="left" style="line-height: 9pt; min-height: 9pt; "></div>
+<div align="left" style="line-height: 9pt; min-height: 9pt; "><font face="Arial"><span style="font-size:8pt">Would you mind to look into the case for us?</span></font></div>
+<div align="left" style="line-height: 9pt; min-height: 9pt; "></div>
+<div align="left" style="line-height: 9pt; min-height: 9pt; "><font face="Arial"><span style="font-size:8pt">I have attached the email chain in advance</span></font></div>
+<div align="left" style="line-height: 9pt; min-height: 9pt; "><font face="Arial"><span style="font-size:8pt">Derrick</span></font></div>
+<div align="left" style="line-height: 9pt; min-height: 9pt; "></div>
+</body>
+</html>
+2018-05-25 18:17:07 INFO  QCInitalConnection:148 - -------------------------------------------------------
+2018-05-25 18:17:07 DEBUG QCInitalConnection:149 - <html>
+<body>
+<div align="left" style="min-height: 9pt; "><font face="Arial"><span dir="ltr" style="font-size:8pt">WIFM1980- &quot;Get  transit time&quot; button is not getting displayed when &quot;No. of Packages&quot; is more than one.</span></font></div>
+<div align="left" style="min-height: 9pt; "></div>
+<div align="left" style="min-height: 9pt; "><font face="Arial"><span dir="ltr" style="font-size:8pt">Credentials:</span></font></div>
+<div align="left" style="min-height: 9pt; "><font face="Arial"><span dir="ltr" style="font-size:8pt"> </span></font></div>
+<div align="left" style="min-height: 9pt; "><font face="Arial"><span dir="ltr" style="font-size:8pt">url: www.fedex.com/kr_english/</span></font></div>
+<div align="left" style="min-height: 9pt; "><font face="Arial"><span dir="ltr" style="font-size:8pt"> </span></font></div>
+<div align="left" style="min-height: 9pt; "><font face="Arial"><span dir="ltr" style="font-size:8pt">Username:regusrkr(Test User)</span></font></div>
+<div align="left" style="min-height: 9pt; "><font face="Arial"><span dir="ltr" style="font-size:8pt">Password:Test1234</span></font></div>
+<div align="left" style="min-height: 9pt; "><font face="Arial"><span dir="ltr" style="font-size:8pt"> </span></font></div>
+<div align="left" style="min-height: 9pt; "><font face="Arial"><span dir="ltr" style="font-size:8pt">Steps to Reproduce: </span></font></div>
+<div align="left" style="min-height: 9pt; "><font face="Arial"><span dir="ltr" style="font-size:8pt"> </span></font></div>
+<div align="left" style="min-height: 9pt; "><font face="Arial"><span dir="ltr" style="font-size:8pt">1. Login to Get Rates & Transit Times Application.</span></font></div>
+<div align="left" style="min-height: 9pt; "><font face="Arial"><span dir="ltr" style="font-size:8pt">2. Enter &quot;KR&quot; country details in &quot;From&quot; Module</span></font></div>
+<div align="left" style="min-height: 9pt; "><font face="Arial"><span dir="ltr" style="font-size:8pt">3. Enter &quot;US&quot; address details in &quot;To&quot; Module.</span></font></div>
+<div align="left" style="min-height: 9pt; "><font face="Arial"><span dir="ltr" style="font-size:8pt">4. Under Additional Information, Enter &quot;No. of packages: 2&quot; </span></font></div>
+<div align="left" style="min-height: 9pt; "><font face="Arial"><span dir="ltr" style="font-size:8pt">5. Verify &quot;Get transit time&quot; button.</span></font></div>
+<div align="left" style="min-height: 9pt; "></div>
+<div align="left" style="min-height: 9pt; "><font face="Arial"><span dir="ltr" style="font-size:8pt">Expected result : &quot;Get transit time&quot; button should be displayed for MPS also.</span></font></div>
+<div align="left" style="min-height: 9pt; "><font face="Arial"><span dir="ltr" style="font-size:8pt"> </span></font></div>
+<div align="left" style="min-height: 9pt; "><font face="Arial"><span dir="ltr" style="font-size:8pt">Actual Result: &quot;Get  transit time&quot; button is not getting displayed when &quot;No. of Packages&quot; is more than one.</span></font></div>
+<div align="left" style="min-height: 9pt; "><font face="Arial"><span dir="ltr" style="font-size:8pt"> </span></font></div>
+<div align="left" style="min-height: 9pt; "><font face="Arial"><span dir="ltr" style="font-size:8pt">Please find the attached screen shots for reference.</span></font></div>
+</body>
+</html>
+2018-05-25 18:17:08 INFO  QCInitalConnection:148 - -------------------------------------------------------
+2018-05-25 18:17:08 DEBUG QCInitalConnection:149 - <html>
+<body>
+<div align="left" style="min-height: 9pt; "><font face="Arial"><span dir="ltr" style="font-size:8pt">Description:</span></font></div>
+<div align="left" style="min-height: 9pt; "></div>
+<div align="left" style="min-height: 9pt; "><font face="Arial"><span dir="ltr" style="font-size:8pt">WGRT_Unable to proceed Freight shipment</span></font></div>
+<div align="left" style="min-height: 9pt; "></div>
+<div align="left" style="min-height: 9pt; "><font face="Arial"><span dir="ltr" style="font-size:8pt">St</span></font><font face="Arial"><span dir="ltr" style="font-size:8pt">eps to reproduce:</span></font></div>
+<div align="left" style="min-height: 9pt; "></div>
+<ul style="margin-top: 0mm; margin-bottom: 0mm; margin-left: 0mm; padding-left: 0pt;list-style-type: disc; ">
+<li style="margin-left: 24pt; margin-right: 0pt; padding-left: 0pt; text-indent: 0pt; font-size: 10pt;  "><font face="Arial"><span dir="ltr" style="font-size:8pt; font-family:Arial; color:#000000; font-weight:Normal; font-style:Normal; font-decoration:Normal">Navigate to </span></font><a href="https://wwwdev.idev.fedex.com/ratefinder/home?cc=US&language=en&locId=express" ><font face="Arial"><span dir="ltr" style="font-size:8pt">https://wwwdev.idev.fedex.com/ratefinder/home?cc=US&language=en&locId=express</span></font></a></li>
+<li style="margin-left: 24pt; margin-right: 0pt; padding-left: 0pt; text-indent: 0pt; font-size: 10pt;  "><font face="Arial"><span dir="ltr" style="font-size:8pt; font-family:Arial; color:#000000; font-weight:Normal; font-style:Normal; font-decoration:Normal">Click on Freight > LTL Rates</span></font></li>
+<li style="margin-left: 24pt; margin-right: 0pt; padding-left: 0pt; text-indent: 0pt; font-size: 10pt;  "><font face="Arial"><span dir="ltr" style="font-size:8pt; font-family:Arial; color:#000000; font-weight:Normal; font-style:Normal; font-decoration:Normal">Enter FROM and TO, Shipment details and click on 'Get rates and Transit times' button</span></font></li>
+</ul>
+<div align="left" style="min-height: 9pt; "></div>
+<div align="left" style="min-height: 9pt; "><font face="Arial"><span dir="ltr" style="font-size:8pt">Expected result:</span></font></div>
+<div align="left" style="min-height: 9pt; "><font face="Arial"><span dir="ltr" style="font-size:8pt">Rates and transit times for the data entered should be displayed </span></font></div>
+<div align="left" style="min-height: 9pt; "></div>
+<div align="left" style="min-height: 9pt; "><font face="Arial"><span dir="ltr" style="font-size:8pt">Actual Result:</span></font></div>
+<div align="left" style="min-height: 9pt; "><font face="Arial"><span dir="ltr" style="font-size:8pt">Error message is displayed.PFA</span></font></div>
+<div align="left" style="min-height: 9pt; "></div>
+<div align="left" style="min-height: 9pt; "></div>
+</body>
+</html>
+2018-05-25 18:17:08 INFO  QCInitalConnection:148 - -------------------------------------------------------
+2018-05-25 18:17:08 DEBUG QCInitalConnection:149 - <html>
+<body>
+<div align="left" style="min-height: 9pt; "><font face="Arial"><span dir="ltr" style="font-size:8pt">When logged in user gets rate and click the Ship button, the information in the To Field does not auto-polulate on the Shipping Screen.</span></font></div>
+<div align="left" style="min-height: 9pt; "></div>
+<div align="left" style="min-height: 9pt; "><font face="Arial"><span dir="ltr" style="font-size:8pt"><u>Duplication Steps</u></span></font></div>
+<ol style="margin-top: 0mm; margin-bottom: 0mm; margin-left: 0mm; padding-left: 0pt;list-style-type: none; ">
+<li style="margin-left: 15pt; margin-right: 0pt; padding-left: 0pt; text-indent: 0pt; "><a href="www.fedex.com/us "><font face="Arial"><span dir="ltr" style="font-size:8pt">www.fedex.com/us</span></font></a></li>
+<li style="margin-left: 15pt; margin-right: 0pt; padding-left: 0pt; text-indent: 0pt; "><font face="Arial"><span dir="ltr" style="font-size:8pt">Login Acting as:  Shane Dunn    </span></font>
+</li>
+</ol>
+<div align="left" style="margin-left:13mm; margin-right:0mm; text-indent:0mm; margin-top:0mm; margin-bottom:0mm; min-height: 9pt; "><font face="Arial"><span dir="ltr" style="font-size:8pt">User ID:  shanedunn1728    </span></font></div>
+<div align="left" style="margin-left:13mm; margin-right:0mm; text-indent:0mm; margin-top:0mm; margin-bottom:0mm; min-height: 9pt; "><font face="Arial"><span dir="ltr" style="font-size:8pt">Temporary Password  6Q6QQTSUJ7  </span></font></div>
+<ol style="margin-top: 0mm; margin-bottom: 0mm; margin-left: 0mm; padding-left: 0pt;list-style-type: none; ">
+<li style="margin-left: 15pt; margin-right: 0pt; padding-left: 0pt; text-indent: 0pt; "><font face="Arial"><span dir="ltr" style="font-size:8pt">Shipping>Shippin Rates &Delivery Times</span></font></li>
+<li style="margin-left: 15pt; margin-right: 0pt; padding-left: 0pt; text-indent: 0pt; "><font face="Arial"><span dir="ltr" style="font-size:8pt">Choose a Contact Name from Address Book or enter test address in the To fields</span></font></li>
+<li style="margin-left: 15pt; margin-right: 0pt; padding-left: 0pt; text-indent: 0pt; "><font face="Arial"><span dir="ltr" style="font-size:8pt">Enter test Package and Shipment information</span></font></li>
+<li style="margin-left: 15pt; margin-right: 0pt; padding-left: 0pt; text-indent: 0pt; "><font face="Arial"><span dir="ltr" style="font-size:8pt">Click Get detailed quote</span></font></li>
+<li style="margin-left: 15pt; margin-right: 0pt; padding-left: 0pt; text-indent: 0pt; "><font face="Arial"><span dir="ltr" style="font-size:8pt">Click the rate that you want shipped and then click the Ship button</span></font>
+</li>
+</ol>
+<div align="left" style="min-height: 9pt; "></div>
+<div align="left" style="min-height: 9pt; "><font face="Arial"><span dir="ltr" style="font-size:8pt"><u>Expected Results</u></span></font></div>
+<div align="left" style="min-height: 9pt; "><font face="Arial"><span dir="ltr" style="font-size:8pt">Address should auto-populate in the To address fields the same as entered in the Rate screen</span></font></div>
+<div align="left" style="min-height: 9pt; "></div>
+<div align="left" style="min-height: 9pt; "><font face="Arial"><span dir="ltr" style="font-size:8pt"><u>Actual Results</u></span></font></div>
+<div align="left" style="min-height: 9pt; "><font face="Arial"><span dir="ltr" style="font-size:8pt">Address To fields are blank</span></font></div>
+<div align="left" style="min-height: 9pt; "></div>
+<div align="left" style="min-height: 9pt; "><font face="Arial"><span dir="ltr" style="font-size:8pt"><u>Customer Info</u></span></font></div>
+<div align="left" style="min-height: 9pt; "><font face="Arial"><span dir="ltr" style="font-size:8pt">Account #:  633945101</span></font></div>
+<div align="left" style="min-height: 9pt; "><font face="Arial"><span dir="ltr" style="font-size:8pt">UUID:  g0g00324th </span></font></div>
+<div align="left" style="min-height: 9pt; "><font face="Arial"><span dir="ltr" style="font-size:8pt">FSM User</span></font></div>
+<div align="left" style="min-height: 9pt; "><font face="Arial"><span dir="ltr" style="font-size:8pt">WGRT Admin</span></font></div>
+<div align="left" style="min-height: 9pt; "></div>
+</body>
+</html>
+2018-05-25 18:17:08 INFO  QCInitalConnection:148 - -------------------------------------------------------
+2018-05-25 18:17:08 DEBUG QCInitalConnection:149 - <html>
+<body>
+<div align="left" style="min-height: 9pt; "><font face="Arial"><span dir="ltr" style="font-size:8pt">WGRT_In Special Services Option, Signature type is not available when moved to Rates and Transit Times </span></font></div>
+<div align="left" style="min-height: 9pt; "></div>
+<div align="left" style="min-height: 9pt; "><font face="Arial"><span dir="ltr" style="font-size:8pt"><b>Steps to Reproduce:</b></span></font></div>
+<div align="left" style="min-height: 9pt; "></div>
+<ul style="margin-top: 0mm; margin-bottom: 0mm; margin-left: 0mm; padding-left: 0pt;list-style-type: disc; ">
+<li style="margin-left: 33pt; margin-right: 0pt; padding-left: 0pt; text-indent: 0pt; font-size: 10pt;  "><font face="Arial"><span dir="ltr" style="font-size:8pt; font-family:Arial; color:#000000; font-weight:Normal; font-style:Normal; font-decoration:Normal">Navigate to </span></font><a href="https://wwwdrt.idev.fedex.com/ratefinder/home?cc=US&language=en&locId=express" ><font face="Arial" color="#0563c1"><span dir="ltr" style="font-size:8pt">https://wwwdrt.idev.fedex.com/ratefinder/home?cc=US&language=en&locId=express</span></font></a></li>
+<li style="margin-left: 33pt; margin-right: 0pt; padding-left: 0pt; text-indent: 0pt; font-size: 10pt;  "><font face="Arial"><span dir="ltr" style="font-size:8pt; font-family:Arial; color:#000000; font-weight:Normal; font-style:Normal; font-decoration:Normal">Enter the Ship from as US, Zip code as 38125 and To as US, Zip code as 10001 and fill the valid required fields, click on ‘Get Detailed Quote’</span></font></li>
+<li style="margin-left: 33pt; margin-right: 0pt; padding-left: 0pt; text-indent: 0pt; font-size: 10pt;  "><font face="Arial"><span dir="ltr" style="font-size:8pt; font-family:Arial; color:#000000; font-weight:Normal; font-style:Normal; font-decoration:Normal">In Package and Shipment Details, fill the required fields and click on ‘Add Special service’</span></font></li>
+<li style="margin-left: 33pt; margin-right: 0pt; padding-left: 0pt; text-indent: 0pt; font-size: 10pt;  "><font face="Arial"><span dir="ltr" style="font-size:8pt; font-family:Arial; color:#000000; font-weight:Normal; font-style:Normal; font-decoration:Normal">In Special Service Options, click on the ‘Dry Ice’ checkbox, Signature type as ‘Direct Signature Required’ and FedEx Return solutions as ‘Email label’</span></font></li>
+<li style="margin-left: 33pt; margin-right: 0pt; padding-left: 0pt; text-indent: 0pt; font-size: 10pt;  "><font face="Arial"><span dir="ltr" style="font-size:8pt; font-family:Arial; color:#000000; font-weight:Normal; font-style:Normal; font-decoration:Normal">Click on ‘Continue’ button.</span></font></li>
+</ul>
+<div align="left" style="margin-left:6mm; margin-right:0mm; text-indent:0mm; margin-top:0mm; margin-bottom:0mm; min-height: 9pt; "></div>
+<div align="left" style="min-height: 9pt; "><font face="Arial"><span dir="ltr" style="font-size:8pt">(</span><span dir="ltr" style="font-size:8pt"><b>Note</b></span><span dir="ltr" style="font-size:8pt">: The Same issue exists for Login Scenario)</span></font></div>
+<div align="left" style="min-height: 9pt; "></div>
+<div align="left" style="min-height: 9pt; "><font face="Arial"><span dir="ltr" style="font-size:8pt"><b>Expected Result:</b></span></font></div>
+<div align="left" style="min-height: 9pt; "></div>
+<div align="left" style="min-height: 9pt; "><font face="Arial"><span dir="ltr" style="font-size:8pt">                In Special services options-> Dry ice, Direct Signature and Email Label should be displayed.</span></font></div>
+<div align="left" style="min-height: 9pt; "></div>
+<div align="left" style="min-height: 9pt; "><font face="Arial"><span dir="ltr" style="font-size:8pt"><b>Actual Result:</b></span></font></div>
+<div align="left" style="min-height: 9pt; "></div>
+<div align="left" style="min-height: 9pt; "><font face="Arial"><span dir="ltr" style="font-size:8pt">                In Special services options->Dry Ice ,  , Email Label been displayed.</span></font></div>
+<div align="left" style="min-height: 9pt; "></div>
+</body>
+</html>
+2018-05-25 18:17:08 DEBUG QCGenerateExcel:40 - Calling Create Excel
+2018-05-25 18:17:08 DEBUG QCGenerateExcel:87 - Writesheet.xlsx written successfully
+2018-05-25 18:17:10 DEBUG QCInitalConnection:58 - 3626150
+2018-05-25 18:17:10 DEBUG QCConnectionV1:13 - Project Successfully Conneted..
+2018-05-25 18:17:10 DEBUG QCInitalConnection:157 - >>>>>>>>>> Entering DoInit Method <<<<<<<<<<<
+2018-05-25 18:17:11 DEBUG QCConnectionV1:15 - Project Successfully DisConneted..
+2018-05-25 18:20:47 DEBUG QCConnectionV1:9 - Entering Main Method .. 
+2018-05-25 18:20:47 INFO  QCInitalConnection:33 - >>>>>>>>>> Entering DoInit Method <<<<<<<<<<<
+2018-05-25 18:20:49 DEBUG QCInitalConnection:37 - true Connected
+2018-05-25 18:21:02 DEBUG QCInitalConnection:40 - true Logged In !!!
+2018-05-25 18:21:02 DEBUG QCInitalConnection:42 - Db Name fedex_central_defects_db
+2018-05-25 18:21:08 DEBUG QCInitalConnection:77 - Total Bug List11
+2018-05-25 18:21:08 INFO  QCInitalConnection:148 - -------------------------------------------------------
+2018-05-25 18:21:08 DEBUG QCInitalConnection:149 - <html><body><font color="#000080"><b>Description:                  </b></font>
+<font color="#000080"><b>Enter the below URL in the Browser </b></font>
+<font color="#000080"><b>-------------------------------------------------------------------------------------------------------</b></font>
+<font color="#000080"><b>For Test Environment  L2 enter below URL and credentials</b></font>
+<font color="#000080"><b>https:</b></font>//wwwdev.idev.fedex.com/ratefinder/home?cc=US&language=es
+On FCL Page enter the login details
+UserID: WGRTUSFXF1L2
+Password: test123
+-------------------------------------------------------------------------------------------------------
+For Test Environment  L3 enter below URL and credentials
+https://wwwdrt.idev.fedex.com/ratefinder/home?cc=US&language=es
+On FCL Page enter the login details
+UserID:
+Password:
+-------------------------------------------------------------------------------------------------------
+For Test Environment L6 enter below URL and credentials
+https://wwwtest.fedex.com/ratefinder/home?cc=US&language=es
+On FCL Page enter the login details
+UserID: 
+Password:
+-------------------------------------------------------------------------------------------------------
+On the displayed Ship From/To Page
+Click on the Freight Tab.
+Click on the Rate Quote History tab.
+Verify the contents of the page.
+ 
+<font color="#000080"><b>Expected:                     </b></font>
+On the Displayed Rate Quote History page the page contents should be displayed in Spanish language(No English words should be  observed).
+ 
+<font color="#000080"><b>Actual: </b></font>
+The content below the please note section are displayed in<font color="#000080"><b> </b></font>English
+
+<b>Requirement: </b>
+<b>WGRT1060 Combined SRS v15.doc</b>
+
+<b>ID 519574</b></body></html>
+2018-05-25 18:21:08 INFO  QCInitalConnection:148 - -------------------------------------------------------
+2018-05-25 18:21:08 DEBUG QCInitalConnection:149 - <html>
+<body>
+<div align="left"><font face="Arial"><span style="font-size:8pt">Summary: </span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">WGRT1490_Jan 14 CL_L3C4_144464 - HPRM : HU : Incorrect Translation for the 
+ship button.</span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt"><br /></span></font></div><div align="left"><font face="Arial"><span style="font-size:8pt">URL: 
+https://wwwdrt.idev.fedex.com/ratefinder/home?cc=US&language=en&locId=express</span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">User id: WGRTFRVD        </span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">Pswd: Test1234</span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">OS: Windows 7</span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">Browser: All Browsers</span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt"><br /></span></font></div><div align="left"><font face="Arial"><span style="font-size:8pt">Steps to Reproduce:</span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">1. Access the above URL.</span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">2. go to 
+https://wwwdrt.idev.fedex.com/ratefinder/home?cc=US&language=en&locId=express</span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">3. Login by the given ID and Select any of applications</span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">4. Click FedexEx Logo</span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">5. In the URL remove any text after the fedex.com</span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">6. Click on the your language your are testing HU</span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">7. HPRM module should be displayed.</span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">8. In the From address enter 'United States' and to address 'United Kingdom'.</span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">9. Click Next</span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">10. Enter a weight of 0,25 kg  
+and select Your Packaging</span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">11. Select the rate </span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt"><br /></span></font></div><div align="left"><font face="Arial"><span style="font-size:8pt">View the ship button</span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt"><br /></span></font></div><div align="left"><font face="Arial"><span style="font-size:8pt">Expected Results</span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">Correct translation</span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt"><br /></span></font></div><div align="left"><font face="Arial"><span style="font-size:8pt">Expected Translation</span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">Feladás</span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt"><br /></span></font></div><div align="left"><font face="Arial"><span style="font-size:8pt">Actual Result</span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">Incorrect translation </span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt"><br /></span></font></div><div align="left"><font face="Arial"><span style="font-size:8pt">Current Translation</span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">Szállítás</span></font></div>
+</body>
+</html>
+2018-05-25 18:21:08 INFO  QCInitalConnection:148 - -------------------------------------------------------
+2018-05-25 18:21:08 DEBUG QCInitalConnection:149 - <html>
+<body>
+<div align="left"><font face="Arial"><span style="font-size:8pt"><b>WGRT1730_CL1601_L3C1</b></span><span style="font-size:8pt">:ASR surcharge is unavailable for FedEx Standard Overnight®  and FedEx Economy®  
+for CA region. </span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt"> </span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt"> </span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt"> </span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt"><b>URL: </b></span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">https://wwwdrt.idev.fedex.com/ratefinder/home?source=gh&cc=ca&language=en</span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">OS: Windows 7</span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">Browser: IE 9 </span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt"> </span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt"><b>SRS:</b></span><span style="font-size:8pt"> AT - 153849 International Signature Services</span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt"><b>Req id</b></span><span style="font-size:8pt">: ID 1210037</span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt"> </span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt"><b>Steps to reproduce : </b></span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt"> </span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">1. On the displayed Ship From/To page, Enter following data.</span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">Under Address Information section, Enter the following data. </span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">In &quot;From&quot; section enter the following details  </span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">* Country/Location = <<Canada>> </span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">* ZIP = <<m1m1m1 >> </span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">In &quot;To&quot; section enter the following details  </span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">* Country/Location =<<canada> ></span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">* ZIP = <<m1m1m1>> </span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">Ship to Residence   </span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">On Additional Information section, Enter the following data </span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">*No. of Packages  1</span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">*Weight(LBS)  20 lbs</span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">*Pickup/DropOff  Sche            dule a Pickup</span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">*Shipment Date  Current Date</span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt"> </span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">2. Click on &quot;Get Detailed Quote&quot; button. </span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">3. In Package and shipment details page </span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">Package type   Your Packaging</span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">Declared value   100</span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">4. Click on Add special service button.</span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">5. In the displayed special service page , select Signature type as ASR</span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">6.Click on continue. </span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">7. In the displayed rates and transit time page verify for the display of ASR surcharge for the service type FedEx 
+Standard Overnight®  and FedEx Economy® . </span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt"> </span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt"><b>Expected:</b></span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">Should display ASR surcharge on the mouse over rate quote for FedEx Standard Overnight®  and FedEx 
+Economy® as per the requirment. </span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">  </span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt"><b>Actual result:</b></span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt"> ASR surcharge is unavailable for  FedEx Standard Overnight®  and FedEx Economy® service type. </span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt"> </span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">PFA attachment for reference.</span></font></div>
+</body>
+</html>
+2018-05-25 18:21:08 INFO  QCInitalConnection:148 - -------------------------------------------------------
+2018-05-25 18:21:08 DEBUG QCInitalConnection:149 - <html>
+<body>
+<div align="left"><font face="Arial"><span style="font-size:8pt">Overview : RU: WGRT: Get Rates & Transit Times : Untranslated text if any of products are select</span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt"> </span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">Browsers: All</span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt"> </span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">OS: All</span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt"> </span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">Environmet: L3</span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt"> </span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt"> </span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">Steps to reproduce:</span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt"> </span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">1. Navigate to WGRT with below URL:</span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">https://wwwdrt.idev.fedex.com/ratefinder/home?cc=RU&language=ru&locId=express</span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt"> </span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">2. In the displayed WGRT page Enter</span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt"> </span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">From : US</span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">ZIP : 38017</span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt"> </span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">To : CA</span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">ZIP  : M1M1M1</span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt"> </span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">No. of packages : 1</span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">Weight : 20 LBS</span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">Pickup/Drop-off :  FedEx pickup</span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt"> </span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">3. Click on the Get Detailed Quote button. </span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt"> </span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">4. In the displayed package and shipment details page ,</span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt"> </span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">5. Select Package contents : Products/Commodities</span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt"> </span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">6. Include D/T Estimate check box  is checked</span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt"> </span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">7. Enter the below details : </span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt"> </span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">Package type : Your packaging </span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">Dimensions : L = 5 , W = 5 , H = 5. </span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">Total customs Value : 100 </span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt"> </span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">8. In section no 3 - Product / Commodity Description , select character 'C' </span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt"> </span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">9. Now check any letter and view the options and the description they show </span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt"> </span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">Actual result: The entire options and their desctipions are untranslated for RU on L3C2 build</span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt"> </span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">Expected result: Is this mean't to be translated or left as is on L3</span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt"> </span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">  </span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">  </span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">  </span></font></div>
+</body>
+</html>
+2018-05-25 18:21:08 INFO  QCInitalConnection:148 - -------------------------------------------------------
+2018-05-25 18:21:08 DEBUG QCInitalConnection:149 - <html>
+<body>
+<div align="left"><font face="Arial"><span style="font-size:8pt"><b><u>Test Description</u></b></span><span style="font-size:8pt"> : Not able to navigate rates page for intra UK enabled ID with multiple accounts 
+associated with it (if one of the account is not UK enabled).</span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt"> </span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt"><b><u>Note </u></b></span><span style="font-size:8pt"><b>: </b></span><span style="font-size:8pt;background:#ffff00"><b>Issue only exist when user have multiple accounts and atleast one account is not UK 
+enabled.</b></span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt"> </span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt"><b><u>Test Data</u></b></span><span style="font-size:8pt"> : WGRTGBVD / Test1234</span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt"> </span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt"><b><u>Account number associated with this user :</u></b></span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">a) 450897981 : not UK enabled</span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">b) 450897663 : UK enabled</span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt"> </span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt"><b><u>Requirement ID</u></b></span><span style="font-size:8pt"> : ID 1269782</span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt"> </span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">URL : https://wwwdrt.idev.fedex.com/ratefinder/home?cc=gb&language=en</span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt"> </span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt"><b><u>Step to reproduce :</u></b></span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt"> </span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">1) Navigate to above URL</span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt"> </span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">2) Enter from and to details as</span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt"> </span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">From - UK( BT1)</span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">To - UK (BT1)</span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt"> </span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">3) Enter details in additional information as </span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">No of packages as : 1</span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">Weight : 12 kgs</span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt"> </span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">4) Click on GDQ.</span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt"> </span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">5) Select your packaging.</span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt"> </span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">6) CLick on continue.</span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt"> </span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt"><b><u>Expected </u></b></span><span style="font-size:8pt">: Rates page should be displayed.</span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt"> </span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt"><b><u>Actual </u></b></span><span style="font-size:8pt">: Rates page is not getting displayed. getting error as</span></font><font face="Arial" color="#ff0000"><span style="font-size:8pt"> &quot;</span><span style="font-size:8pt"><b>Fedex.com Rates and Transit Time is 
+unable to process your request. We apologize for the inconvenience,   please try again 
+later. For immediate assistance, please contact Customer Service.</b></span><span style="font-size:8pt">&quot;</span></font><font face="Arial"><span style="font-size:8pt"> </span><span style="font-size:8pt"><b>OR &quot;</b></span></font><font face="Arial" color="#ff0000"><span style="font-size:8pt"><b>Domestic shipping 
+in the United Kingdom requires a specific account registration. Please contact</b></span></font><font face="Arial"><span style="font-size:8pt"><b> </b></span></font><a href="http://www,fedex.com/gb/contact"><font face="Arial" color="#ff0000"><span style="font-size:8pt"><b><u>Customer 
+Service</u></b></span></font></a><font face="Arial"><span style="font-size:8pt"><b>.&quot;</b></span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt"><b> </b></span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt"><b> </b></span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt;background:#ffff00"><b>PFA for reference</b></span></font></div>
+</body>
+</html>
+2018-05-25 18:21:08 INFO  QCInitalConnection:148 - -------------------------------------------------------
+2018-05-25 18:21:08 DEBUG QCInitalConnection:149 - <html>
+<body>
+<div align="left" style="line-height: 9pt; min-height: 9pt; "><font face="Arial"><span style="font-size:8pt">In Home Page ,After clicking the Rate & Ship cub, Hamburger menu is getting misaligned and sub menus/footer links are getting underline.</span></font></div>
+<div align="left" style="line-height: 9pt; min-height: 9pt; "></div>
+<div align="left" style="line-height: 9pt; min-height: 9pt; "></div>
+<div align="left" style="line-height: 9pt; min-height: 9pt; "><font face="Arial"><span style="font-size:8pt">Steps</span></font></div>
+<div align="left" style="line-height: 9pt; min-height: 9pt; "></div>
+<div align="left" style="line-height: 9pt; min-height: 9pt; "><font face="Arial"><span style="font-size:8pt">- Launch the application</span></font></div>
+<div align="left" style="line-height: 9pt; min-height: 9pt; "></div>
+<div align="left" style="line-height: 9pt; min-height: 9pt; "><font face="Arial"><span style="font-size:8pt">- Click on the Rate & Ship cub.</span></font></div>
+<div align="left" style="line-height: 9pt; min-height: 9pt; "></div>
+<div align="left" style="line-height: 9pt; min-height: 9pt; "><font face="Arial"><span style="font-size:8pt">Actual - the hamburger menu is getting misaligned and all sub menu and footers are getting underlined.  </span></font></div>
+<div align="left" style="line-height: 9pt; min-height: 9pt; "></div>
+<div align="left" style="line-height: 9pt; min-height: 9pt; "><font face="Arial"><span style="font-size:8pt">- Able to reproduce in iOS and Android also desktop.</span></font></div>
+</body>
+</html>
+2018-05-25 18:21:08 INFO  QCInitalConnection:148 - -------------------------------------------------------
+2018-05-25 18:21:08 DEBUG QCInitalConnection:149 - <html>
+<body>
+<div align="left" style="line-height: 9pt; min-height: 9pt; "><font face="Arial"><span style="font-size:8pt">Dear Support team,</span></font></div>
+<div align="left" style="line-height: 9pt; min-height: 9pt; "></div>
+<div align="left" style="line-height: 10pt; min-height: 10pt; "><font face="Arial"><span style="font-size:8pt">we have received an enquiry from the CN CS team that </span></font><font face="Arial"><span style="font-size:8pt">a wrong freight charge showed on the website comparing on what she obtained from the CS team.</span></font></div>
+<div align="left" style="line-height: 9pt; min-height: 9pt; "></div>
+<div align="left" style="line-height: 9pt; min-height: 9pt; "><font face="Arial"><span style="font-size:8pt">Would you mind to look into the case for us?</span></font></div>
+<div align="left" style="line-height: 9pt; min-height: 9pt; "></div>
+<div align="left" style="line-height: 9pt; min-height: 9pt; "><font face="Arial"><span style="font-size:8pt">I have attached the email chain in advance</span></font></div>
+<div align="left" style="line-height: 9pt; min-height: 9pt; "><font face="Arial"><span style="font-size:8pt">Derrick</span></font></div>
+<div align="left" style="line-height: 9pt; min-height: 9pt; "></div>
+</body>
+</html>
+2018-05-25 18:21:08 INFO  QCInitalConnection:148 - -------------------------------------------------------
+2018-05-25 18:21:08 DEBUG QCInitalConnection:149 - <html>
+<body>
+<div align="left" style="min-height: 9pt; "><font face="Arial"><span dir="ltr" style="font-size:8pt">WIFM1980- &quot;Get  transit time&quot; button is not getting displayed when &quot;No. of Packages&quot; is more than one.</span></font></div>
+<div align="left" style="min-height: 9pt; "></div>
+<div align="left" style="min-height: 9pt; "><font face="Arial"><span dir="ltr" style="font-size:8pt">Credentials:</span></font></div>
+<div align="left" style="min-height: 9pt; "><font face="Arial"><span dir="ltr" style="font-size:8pt"> </span></font></div>
+<div align="left" style="min-height: 9pt; "><font face="Arial"><span dir="ltr" style="font-size:8pt">url: www.fedex.com/kr_english/</span></font></div>
+<div align="left" style="min-height: 9pt; "><font face="Arial"><span dir="ltr" style="font-size:8pt"> </span></font></div>
+<div align="left" style="min-height: 9pt; "><font face="Arial"><span dir="ltr" style="font-size:8pt">Username:regusrkr(Test User)</span></font></div>
+<div align="left" style="min-height: 9pt; "><font face="Arial"><span dir="ltr" style="font-size:8pt">Password:Test1234</span></font></div>
+<div align="left" style="min-height: 9pt; "><font face="Arial"><span dir="ltr" style="font-size:8pt"> </span></font></div>
+<div align="left" style="min-height: 9pt; "><font face="Arial"><span dir="ltr" style="font-size:8pt">Steps to Reproduce: </span></font></div>
+<div align="left" style="min-height: 9pt; "><font face="Arial"><span dir="ltr" style="font-size:8pt"> </span></font></div>
+<div align="left" style="min-height: 9pt; "><font face="Arial"><span dir="ltr" style="font-size:8pt">1. Login to Get Rates & Transit Times Application.</span></font></div>
+<div align="left" style="min-height: 9pt; "><font face="Arial"><span dir="ltr" style="font-size:8pt">2. Enter &quot;KR&quot; country details in &quot;From&quot; Module</span></font></div>
+<div align="left" style="min-height: 9pt; "><font face="Arial"><span dir="ltr" style="font-size:8pt">3. Enter &quot;US&quot; address details in &quot;To&quot; Module.</span></font></div>
+<div align="left" style="min-height: 9pt; "><font face="Arial"><span dir="ltr" style="font-size:8pt">4. Under Additional Information, Enter &quot;No. of packages: 2&quot; </span></font></div>
+<div align="left" style="min-height: 9pt; "><font face="Arial"><span dir="ltr" style="font-size:8pt">5. Verify &quot;Get transit time&quot; button.</span></font></div>
+<div align="left" style="min-height: 9pt; "></div>
+<div align="left" style="min-height: 9pt; "><font face="Arial"><span dir="ltr" style="font-size:8pt">Expected result : &quot;Get transit time&quot; button should be displayed for MPS also.</span></font></div>
+<div align="left" style="min-height: 9pt; "><font face="Arial"><span dir="ltr" style="font-size:8pt"> </span></font></div>
+<div align="left" style="min-height: 9pt; "><font face="Arial"><span dir="ltr" style="font-size:8pt">Actual Result: &quot;Get  transit time&quot; button is not getting displayed when &quot;No. of Packages&quot; is more than one.</span></font></div>
+<div align="left" style="min-height: 9pt; "><font face="Arial"><span dir="ltr" style="font-size:8pt"> </span></font></div>
+<div align="left" style="min-height: 9pt; "><font face="Arial"><span dir="ltr" style="font-size:8pt">Please find the attached screen shots for reference.</span></font></div>
+</body>
+</html>
+2018-05-25 18:21:08 INFO  QCInitalConnection:148 - -------------------------------------------------------
+2018-05-25 18:21:08 DEBUG QCInitalConnection:149 - <html>
+<body>
+<div align="left" style="min-height: 9pt; "><font face="Arial"><span dir="ltr" style="font-size:8pt">Description:</span></font></div>
+<div align="left" style="min-height: 9pt; "></div>
+<div align="left" style="min-height: 9pt; "><font face="Arial"><span dir="ltr" style="font-size:8pt">WGRT_Unable to proceed Freight shipment</span></font></div>
+<div align="left" style="min-height: 9pt; "></div>
+<div align="left" style="min-height: 9pt; "><font face="Arial"><span dir="ltr" style="font-size:8pt">St</span></font><font face="Arial"><span dir="ltr" style="font-size:8pt">eps to reproduce:</span></font></div>
+<div align="left" style="min-height: 9pt; "></div>
+<ul style="margin-top: 0mm; margin-bottom: 0mm; margin-left: 0mm; padding-left: 0pt;list-style-type: disc; ">
+<li style="margin-left: 24pt; margin-right: 0pt; padding-left: 0pt; text-indent: 0pt; font-size: 10pt;  "><font face="Arial"><span dir="ltr" style="font-size:8pt; font-family:Arial; color:#000000; font-weight:Normal; font-style:Normal; font-decoration:Normal">Navigate to </span></font><a href="https://wwwdev.idev.fedex.com/ratefinder/home?cc=US&language=en&locId=express" ><font face="Arial"><span dir="ltr" style="font-size:8pt">https://wwwdev.idev.fedex.com/ratefinder/home?cc=US&language=en&locId=express</span></font></a></li>
+<li style="margin-left: 24pt; margin-right: 0pt; padding-left: 0pt; text-indent: 0pt; font-size: 10pt;  "><font face="Arial"><span dir="ltr" style="font-size:8pt; font-family:Arial; color:#000000; font-weight:Normal; font-style:Normal; font-decoration:Normal">Click on Freight > LTL Rates</span></font></li>
+<li style="margin-left: 24pt; margin-right: 0pt; padding-left: 0pt; text-indent: 0pt; font-size: 10pt;  "><font face="Arial"><span dir="ltr" style="font-size:8pt; font-family:Arial; color:#000000; font-weight:Normal; font-style:Normal; font-decoration:Normal">Enter FROM and TO, Shipment details and click on 'Get rates and Transit times' button</span></font></li>
+</ul>
+<div align="left" style="min-height: 9pt; "></div>
+<div align="left" style="min-height: 9pt; "><font face="Arial"><span dir="ltr" style="font-size:8pt">Expected result:</span></font></div>
+<div align="left" style="min-height: 9pt; "><font face="Arial"><span dir="ltr" style="font-size:8pt">Rates and transit times for the data entered should be displayed </span></font></div>
+<div align="left" style="min-height: 9pt; "></div>
+<div align="left" style="min-height: 9pt; "><font face="Arial"><span dir="ltr" style="font-size:8pt">Actual Result:</span></font></div>
+<div align="left" style="min-height: 9pt; "><font face="Arial"><span dir="ltr" style="font-size:8pt">Error message is displayed.PFA</span></font></div>
+<div align="left" style="min-height: 9pt; "></div>
+<div align="left" style="min-height: 9pt; "></div>
+</body>
+</html>
+2018-05-25 18:21:08 INFO  QCInitalConnection:148 - -------------------------------------------------------
+2018-05-25 18:21:08 DEBUG QCInitalConnection:149 - <html>
+<body>
+<div align="left" style="min-height: 9pt; "><font face="Arial"><span dir="ltr" style="font-size:8pt">When logged in user gets rate and click the Ship button, the information in the To Field does not auto-polulate on the Shipping Screen.</span></font></div>
+<div align="left" style="min-height: 9pt; "></div>
+<div align="left" style="min-height: 9pt; "><font face="Arial"><span dir="ltr" style="font-size:8pt"><u>Duplication Steps</u></span></font></div>
+<ol style="margin-top: 0mm; margin-bottom: 0mm; margin-left: 0mm; padding-left: 0pt;list-style-type: none; ">
+<li style="margin-left: 15pt; margin-right: 0pt; padding-left: 0pt; text-indent: 0pt; "><a href="www.fedex.com/us "><font face="Arial"><span dir="ltr" style="font-size:8pt">www.fedex.com/us</span></font></a></li>
+<li style="margin-left: 15pt; margin-right: 0pt; padding-left: 0pt; text-indent: 0pt; "><font face="Arial"><span dir="ltr" style="font-size:8pt">Login Acting as:  Shane Dunn    </span></font>
+</li>
+</ol>
+<div align="left" style="margin-left:13mm; margin-right:0mm; text-indent:0mm; margin-top:0mm; margin-bottom:0mm; min-height: 9pt; "><font face="Arial"><span dir="ltr" style="font-size:8pt">User ID:  shanedunn1728    </span></font></div>
+<div align="left" style="margin-left:13mm; margin-right:0mm; text-indent:0mm; margin-top:0mm; margin-bottom:0mm; min-height: 9pt; "><font face="Arial"><span dir="ltr" style="font-size:8pt">Temporary Password  6Q6QQTSUJ7  </span></font></div>
+<ol style="margin-top: 0mm; margin-bottom: 0mm; margin-left: 0mm; padding-left: 0pt;list-style-type: none; ">
+<li style="margin-left: 15pt; margin-right: 0pt; padding-left: 0pt; text-indent: 0pt; "><font face="Arial"><span dir="ltr" style="font-size:8pt">Shipping>Shippin Rates &Delivery Times</span></font></li>
+<li style="margin-left: 15pt; margin-right: 0pt; padding-left: 0pt; text-indent: 0pt; "><font face="Arial"><span dir="ltr" style="font-size:8pt">Choose a Contact Name from Address Book or enter test address in the To fields</span></font></li>
+<li style="margin-left: 15pt; margin-right: 0pt; padding-left: 0pt; text-indent: 0pt; "><font face="Arial"><span dir="ltr" style="font-size:8pt">Enter test Package and Shipment information</span></font></li>
+<li style="margin-left: 15pt; margin-right: 0pt; padding-left: 0pt; text-indent: 0pt; "><font face="Arial"><span dir="ltr" style="font-size:8pt">Click Get detailed quote</span></font></li>
+<li style="margin-left: 15pt; margin-right: 0pt; padding-left: 0pt; text-indent: 0pt; "><font face="Arial"><span dir="ltr" style="font-size:8pt">Click the rate that you want shipped and then click the Ship button</span></font>
+</li>
+</ol>
+<div align="left" style="min-height: 9pt; "></div>
+<div align="left" style="min-height: 9pt; "><font face="Arial"><span dir="ltr" style="font-size:8pt"><u>Expected Results</u></span></font></div>
+<div align="left" style="min-height: 9pt; "><font face="Arial"><span dir="ltr" style="font-size:8pt">Address should auto-populate in the To address fields the same as entered in the Rate screen</span></font></div>
+<div align="left" style="min-height: 9pt; "></div>
+<div align="left" style="min-height: 9pt; "><font face="Arial"><span dir="ltr" style="font-size:8pt"><u>Actual Results</u></span></font></div>
+<div align="left" style="min-height: 9pt; "><font face="Arial"><span dir="ltr" style="font-size:8pt">Address To fields are blank</span></font></div>
+<div align="left" style="min-height: 9pt; "></div>
+<div align="left" style="min-height: 9pt; "><font face="Arial"><span dir="ltr" style="font-size:8pt"><u>Customer Info</u></span></font></div>
+<div align="left" style="min-height: 9pt; "><font face="Arial"><span dir="ltr" style="font-size:8pt">Account #:  633945101</span></font></div>
+<div align="left" style="min-height: 9pt; "><font face="Arial"><span dir="ltr" style="font-size:8pt">UUID:  g0g00324th </span></font></div>
+<div align="left" style="min-height: 9pt; "><font face="Arial"><span dir="ltr" style="font-size:8pt">FSM User</span></font></div>
+<div align="left" style="min-height: 9pt; "><font face="Arial"><span dir="ltr" style="font-size:8pt">WGRT Admin</span></font></div>
+<div align="left" style="min-height: 9pt; "></div>
+</body>
+</html>
+2018-05-25 18:21:08 INFO  QCInitalConnection:148 - -------------------------------------------------------
+2018-05-25 18:21:08 DEBUG QCInitalConnection:149 - <html>
+<body>
+<div align="left" style="min-height: 9pt; "><font face="Arial"><span dir="ltr" style="font-size:8pt">WGRT_In Special Services Option, Signature type is not available when moved to Rates and Transit Times </span></font></div>
+<div align="left" style="min-height: 9pt; "></div>
+<div align="left" style="min-height: 9pt; "><font face="Arial"><span dir="ltr" style="font-size:8pt"><b>Steps to Reproduce:</b></span></font></div>
+<div align="left" style="min-height: 9pt; "></div>
+<ul style="margin-top: 0mm; margin-bottom: 0mm; margin-left: 0mm; padding-left: 0pt;list-style-type: disc; ">
+<li style="margin-left: 33pt; margin-right: 0pt; padding-left: 0pt; text-indent: 0pt; font-size: 10pt;  "><font face="Arial"><span dir="ltr" style="font-size:8pt; font-family:Arial; color:#000000; font-weight:Normal; font-style:Normal; font-decoration:Normal">Navigate to </span></font><a href="https://wwwdrt.idev.fedex.com/ratefinder/home?cc=US&language=en&locId=express" ><font face="Arial" color="#0563c1"><span dir="ltr" style="font-size:8pt">https://wwwdrt.idev.fedex.com/ratefinder/home?cc=US&language=en&locId=express</span></font></a></li>
+<li style="margin-left: 33pt; margin-right: 0pt; padding-left: 0pt; text-indent: 0pt; font-size: 10pt;  "><font face="Arial"><span dir="ltr" style="font-size:8pt; font-family:Arial; color:#000000; font-weight:Normal; font-style:Normal; font-decoration:Normal">Enter the Ship from as US, Zip code as 38125 and To as US, Zip code as 10001 and fill the valid required fields, click on ‘Get Detailed Quote’</span></font></li>
+<li style="margin-left: 33pt; margin-right: 0pt; padding-left: 0pt; text-indent: 0pt; font-size: 10pt;  "><font face="Arial"><span dir="ltr" style="font-size:8pt; font-family:Arial; color:#000000; font-weight:Normal; font-style:Normal; font-decoration:Normal">In Package and Shipment Details, fill the required fields and click on ‘Add Special service’</span></font></li>
+<li style="margin-left: 33pt; margin-right: 0pt; padding-left: 0pt; text-indent: 0pt; font-size: 10pt;  "><font face="Arial"><span dir="ltr" style="font-size:8pt; font-family:Arial; color:#000000; font-weight:Normal; font-style:Normal; font-decoration:Normal">In Special Service Options, click on the ‘Dry Ice’ checkbox, Signature type as ‘Direct Signature Required’ and FedEx Return solutions as ‘Email label’</span></font></li>
+<li style="margin-left: 33pt; margin-right: 0pt; padding-left: 0pt; text-indent: 0pt; font-size: 10pt;  "><font face="Arial"><span dir="ltr" style="font-size:8pt; font-family:Arial; color:#000000; font-weight:Normal; font-style:Normal; font-decoration:Normal">Click on ‘Continue’ button.</span></font></li>
+</ul>
+<div align="left" style="margin-left:6mm; margin-right:0mm; text-indent:0mm; margin-top:0mm; margin-bottom:0mm; min-height: 9pt; "></div>
+<div align="left" style="min-height: 9pt; "><font face="Arial"><span dir="ltr" style="font-size:8pt">(</span><span dir="ltr" style="font-size:8pt"><b>Note</b></span><span dir="ltr" style="font-size:8pt">: The Same issue exists for Login Scenario)</span></font></div>
+<div align="left" style="min-height: 9pt; "></div>
+<div align="left" style="min-height: 9pt; "><font face="Arial"><span dir="ltr" style="font-size:8pt"><b>Expected Result:</b></span></font></div>
+<div align="left" style="min-height: 9pt; "></div>
+<div align="left" style="min-height: 9pt; "><font face="Arial"><span dir="ltr" style="font-size:8pt">                In Special services options-> Dry ice, Direct Signature and Email Label should be displayed.</span></font></div>
+<div align="left" style="min-height: 9pt; "></div>
+<div align="left" style="min-height: 9pt; "><font face="Arial"><span dir="ltr" style="font-size:8pt"><b>Actual Result:</b></span></font></div>
+<div align="left" style="min-height: 9pt; "></div>
+<div align="left" style="min-height: 9pt; "><font face="Arial"><span dir="ltr" style="font-size:8pt">                In Special services options->Dry Ice ,  , Email Label been displayed.</span></font></div>
+<div align="left" style="min-height: 9pt; "></div>
+</body>
+</html>
+2018-05-25 18:21:09 DEBUG QCGenerateExcel:40 - Calling Create Excel
+2018-05-25 18:21:09 DEBUG QCGenerateExcel:87 - Writesheet.xlsx written successfully
+2018-05-25 18:21:11 DEBUG QCInitalConnection:58 - 3626150
+2018-05-25 18:21:11 DEBUG QCConnectionV1:13 - Project Successfully Conneted..
+2018-05-25 18:21:11 DEBUG QCInitalConnection:157 - >>>>>>>>>> Entering DoInit Method <<<<<<<<<<<
+2018-05-25 18:21:12 DEBUG QCConnectionV1:15 - Project Successfully DisConneted..
+2018-05-25 18:22:27 DEBUG QCConnectionV1:9 - Entering Main Method .. 
+2018-05-25 18:22:27 INFO  QCInitalConnection:33 - >>>>>>>>>> Entering DoInit Method <<<<<<<<<<<
+2018-05-25 18:22:38 DEBUG QCInitalConnection:37 - true Connected
+2018-05-25 18:22:50 DEBUG QCInitalConnection:40 - true Logged In !!!
+2018-05-25 18:22:50 DEBUG QCInitalConnection:42 - Db Name fedex_central_defects_db
+2018-05-25 18:22:55 DEBUG QCInitalConnection:77 - Total Bug List11
+2018-05-25 18:22:55 INFO  QCInitalConnection:148 - -------------------------------------------------------
+2018-05-25 18:22:55 DEBUG QCInitalConnection:149 - <html><body><font color="#000080"><b>Description:                  </b></font>
+<font color="#000080"><b>Enter the below URL in the Browser </b></font>
+<font color="#000080"><b>-------------------------------------------------------------------------------------------------------</b></font>
+<font color="#000080"><b>For Test Environment  L2 enter below URL and credentials</b></font>
+<font color="#000080"><b>https:</b></font>//wwwdev.idev.fedex.com/ratefinder/home?cc=US&language=es
+On FCL Page enter the login details
+UserID: WGRTUSFXF1L2
+Password: test123
+-------------------------------------------------------------------------------------------------------
+For Test Environment  L3 enter below URL and credentials
+https://wwwdrt.idev.fedex.com/ratefinder/home?cc=US&language=es
+On FCL Page enter the login details
+UserID:
+Password:
+-------------------------------------------------------------------------------------------------------
+For Test Environment L6 enter below URL and credentials
+https://wwwtest.fedex.com/ratefinder/home?cc=US&language=es
+On FCL Page enter the login details
+UserID: 
+Password:
+-------------------------------------------------------------------------------------------------------
+On the displayed Ship From/To Page
+Click on the Freight Tab.
+Click on the Rate Quote History tab.
+Verify the contents of the page.
+ 
+<font color="#000080"><b>Expected:                     </b></font>
+On the Displayed Rate Quote History page the page contents should be displayed in Spanish language(No English words should be  observed).
+ 
+<font color="#000080"><b>Actual: </b></font>
+The content below the please note section are displayed in<font color="#000080"><b> </b></font>English
+
+<b>Requirement: </b>
+<b>WGRT1060 Combined SRS v15.doc</b>
+
+<b>ID 519574</b></body></html>
+2018-05-25 18:22:55 INFO  QCInitalConnection:148 - -------------------------------------------------------
+2018-05-25 18:22:55 DEBUG QCInitalConnection:149 - <html>
+<body>
+<div align="left"><font face="Arial"><span style="font-size:8pt">Summary: </span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">WGRT1490_Jan 14 CL_L3C4_144464 - HPRM : HU : Incorrect Translation for the 
+ship button.</span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt"><br /></span></font></div><div align="left"><font face="Arial"><span style="font-size:8pt">URL: 
+https://wwwdrt.idev.fedex.com/ratefinder/home?cc=US&language=en&locId=express</span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">User id: WGRTFRVD        </span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">Pswd: Test1234</span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">OS: Windows 7</span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">Browser: All Browsers</span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt"><br /></span></font></div><div align="left"><font face="Arial"><span style="font-size:8pt">Steps to Reproduce:</span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">1. Access the above URL.</span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">2. go to 
+https://wwwdrt.idev.fedex.com/ratefinder/home?cc=US&language=en&locId=express</span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">3. Login by the given ID and Select any of applications</span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">4. Click FedexEx Logo</span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">5. In the URL remove any text after the fedex.com</span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">6. Click on the your language your are testing HU</span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">7. HPRM module should be displayed.</span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">8. In the From address enter 'United States' and to address 'United Kingdom'.</span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">9. Click Next</span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">10. Enter a weight of 0,25 kg  
+and select Your Packaging</span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">11. Select the rate </span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt"><br /></span></font></div><div align="left"><font face="Arial"><span style="font-size:8pt">View the ship button</span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt"><br /></span></font></div><div align="left"><font face="Arial"><span style="font-size:8pt">Expected Results</span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">Correct translation</span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt"><br /></span></font></div><div align="left"><font face="Arial"><span style="font-size:8pt">Expected Translation</span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">Feladás</span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt"><br /></span></font></div><div align="left"><font face="Arial"><span style="font-size:8pt">Actual Result</span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">Incorrect translation </span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt"><br /></span></font></div><div align="left"><font face="Arial"><span style="font-size:8pt">Current Translation</span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">Szállítás</span></font></div>
+</body>
+</html>
+2018-05-25 18:22:55 INFO  QCInitalConnection:148 - -------------------------------------------------------
+2018-05-25 18:22:55 DEBUG QCInitalConnection:149 - <html>
+<body>
+<div align="left"><font face="Arial"><span style="font-size:8pt"><b>WGRT1730_CL1601_L3C1</b></span><span style="font-size:8pt">:ASR surcharge is unavailable for FedEx Standard Overnight®  and FedEx Economy®  
+for CA region. </span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt"> </span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt"> </span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt"> </span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt"><b>URL: </b></span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">https://wwwdrt.idev.fedex.com/ratefinder/home?source=gh&cc=ca&language=en</span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">OS: Windows 7</span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">Browser: IE 9 </span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt"> </span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt"><b>SRS:</b></span><span style="font-size:8pt"> AT - 153849 International Signature Services</span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt"><b>Req id</b></span><span style="font-size:8pt">: ID 1210037</span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt"> </span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt"><b>Steps to reproduce : </b></span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt"> </span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">1. On the displayed Ship From/To page, Enter following data.</span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">Under Address Information section, Enter the following data. </span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">In &quot;From&quot; section enter the following details  </span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">* Country/Location = <<Canada>> </span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">* ZIP = <<m1m1m1 >> </span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">In &quot;To&quot; section enter the following details  </span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">* Country/Location =<<canada> ></span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">* ZIP = <<m1m1m1>> </span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">Ship to Residence   </span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">On Additional Information section, Enter the following data </span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">*No. of Packages  1</span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">*Weight(LBS)  20 lbs</span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">*Pickup/DropOff  Sche            dule a Pickup</span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">*Shipment Date  Current Date</span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt"> </span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">2. Click on &quot;Get Detailed Quote&quot; button. </span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">3. In Package and shipment details page </span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">Package type   Your Packaging</span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">Declared value   100</span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">4. Click on Add special service button.</span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">5. In the displayed special service page , select Signature type as ASR</span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">6.Click on continue. </span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">7. In the displayed rates and transit time page verify for the display of ASR surcharge for the service type FedEx 
+Standard Overnight®  and FedEx Economy® . </span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt"> </span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt"><b>Expected:</b></span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">Should display ASR surcharge on the mouse over rate quote for FedEx Standard Overnight®  and FedEx 
+Economy® as per the requirment. </span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">  </span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt"><b>Actual result:</b></span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt"> ASR surcharge is unavailable for  FedEx Standard Overnight®  and FedEx Economy® service type. </span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt"> </span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">PFA attachment for reference.</span></font></div>
+</body>
+</html>
+2018-05-25 18:22:55 INFO  QCInitalConnection:148 - -------------------------------------------------------
+2018-05-25 18:22:55 DEBUG QCInitalConnection:149 - <html>
+<body>
+<div align="left"><font face="Arial"><span style="font-size:8pt">Overview : RU: WGRT: Get Rates & Transit Times : Untranslated text if any of products are select</span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt"> </span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">Browsers: All</span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt"> </span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">OS: All</span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt"> </span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">Environmet: L3</span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt"> </span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt"> </span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">Steps to reproduce:</span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt"> </span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">1. Navigate to WGRT with below URL:</span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">https://wwwdrt.idev.fedex.com/ratefinder/home?cc=RU&language=ru&locId=express</span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt"> </span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">2. In the displayed WGRT page Enter</span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt"> </span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">From : US</span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">ZIP : 38017</span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt"> </span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">To : CA</span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">ZIP  : M1M1M1</span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt"> </span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">No. of packages : 1</span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">Weight : 20 LBS</span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">Pickup/Drop-off :  FedEx pickup</span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt"> </span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">3. Click on the Get Detailed Quote button. </span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt"> </span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">4. In the displayed package and shipment details page ,</span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt"> </span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">5. Select Package contents : Products/Commodities</span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt"> </span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">6. Include D/T Estimate check box  is checked</span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt"> </span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">7. Enter the below details : </span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt"> </span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">Package type : Your packaging </span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">Dimensions : L = 5 , W = 5 , H = 5. </span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">Total customs Value : 100 </span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt"> </span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">8. In section no 3 - Product / Commodity Description , select character 'C' </span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt"> </span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">9. Now check any letter and view the options and the description they show </span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt"> </span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">Actual result: The entire options and their desctipions are untranslated for RU on L3C2 build</span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt"> </span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">Expected result: Is this mean't to be translated or left as is on L3</span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt"> </span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">  </span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">  </span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">  </span></font></div>
+</body>
+</html>
+2018-05-25 18:22:55 INFO  QCInitalConnection:148 - -------------------------------------------------------
+2018-05-25 18:22:55 DEBUG QCInitalConnection:149 - <html>
+<body>
+<div align="left"><font face="Arial"><span style="font-size:8pt"><b><u>Test Description</u></b></span><span style="font-size:8pt"> : Not able to navigate rates page for intra UK enabled ID with multiple accounts 
+associated with it (if one of the account is not UK enabled).</span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt"> </span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt"><b><u>Note </u></b></span><span style="font-size:8pt"><b>: </b></span><span style="font-size:8pt;background:#ffff00"><b>Issue only exist when user have multiple accounts and atleast one account is not UK 
+enabled.</b></span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt"> </span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt"><b><u>Test Data</u></b></span><span style="font-size:8pt"> : WGRTGBVD / Test1234</span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt"> </span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt"><b><u>Account number associated with this user :</u></b></span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">a) 450897981 : not UK enabled</span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">b) 450897663 : UK enabled</span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt"> </span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt"><b><u>Requirement ID</u></b></span><span style="font-size:8pt"> : ID 1269782</span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt"> </span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">URL : https://wwwdrt.idev.fedex.com/ratefinder/home?cc=gb&language=en</span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt"> </span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt"><b><u>Step to reproduce :</u></b></span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt"> </span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">1) Navigate to above URL</span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt"> </span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">2) Enter from and to details as</span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt"> </span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">From - UK( BT1)</span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">To - UK (BT1)</span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt"> </span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">3) Enter details in additional information as </span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">No of packages as : 1</span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">Weight : 12 kgs</span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt"> </span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">4) Click on GDQ.</span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt"> </span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">5) Select your packaging.</span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt"> </span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt">6) CLick on continue.</span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt"> </span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt"><b><u>Expected </u></b></span><span style="font-size:8pt">: Rates page should be displayed.</span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt"> </span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt"><b><u>Actual </u></b></span><span style="font-size:8pt">: Rates page is not getting displayed. getting error as</span></font><font face="Arial" color="#ff0000"><span style="font-size:8pt"> &quot;</span><span style="font-size:8pt"><b>Fedex.com Rates and Transit Time is 
+unable to process your request. We apologize for the inconvenience,   please try again 
+later. For immediate assistance, please contact Customer Service.</b></span><span style="font-size:8pt">&quot;</span></font><font face="Arial"><span style="font-size:8pt"> </span><span style="font-size:8pt"><b>OR &quot;</b></span></font><font face="Arial" color="#ff0000"><span style="font-size:8pt"><b>Domestic shipping 
+in the United Kingdom requires a specific account registration. Please contact</b></span></font><font face="Arial"><span style="font-size:8pt"><b> </b></span></font><a href="http://www,fedex.com/gb/contact"><font face="Arial" color="#ff0000"><span style="font-size:8pt"><b><u>Customer 
+Service</u></b></span></font></a><font face="Arial"><span style="font-size:8pt"><b>.&quot;</b></span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt"><b> </b></span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt"><b> </b></span></font></div>
+<div align="left"><font face="Arial"><span style="font-size:8pt;background:#ffff00"><b>PFA for reference</b></span></font></div>
+</body>
+</html>
+2018-05-25 18:22:55 INFO  QCInitalConnection:148 - -------------------------------------------------------
+2018-05-25 18:22:55 DEBUG QCInitalConnection:149 - <html>
+<body>
+<div align="left" style="line-height: 9pt; min-height: 9pt; "><font face="Arial"><span style="font-size:8pt">In Home Page ,After clicking the Rate & Ship cub, Hamburger menu is getting misaligned and sub menus/footer links are getting underline.</span></font></div>
+<div align="left" style="line-height: 9pt; min-height: 9pt; "></div>
+<div align="left" style="line-height: 9pt; min-height: 9pt; "></div>
+<div align="left" style="line-height: 9pt; min-height: 9pt; "><font face="Arial"><span style="font-size:8pt">Steps</span></font></div>
+<div align="left" style="line-height: 9pt; min-height: 9pt; "></div>
+<div align="left" style="line-height: 9pt; min-height: 9pt; "><font face="Arial"><span style="font-size:8pt">- Launch the application</span></font></div>
+<div align="left" style="line-height: 9pt; min-height: 9pt; "></div>
+<div align="left" style="line-height: 9pt; min-height: 9pt; "><font face="Arial"><span style="font-size:8pt">- Click on the Rate & Ship cub.</span></font></div>
+<div align="left" style="line-height: 9pt; min-height: 9pt; "></div>
+<div align="left" style="line-height: 9pt; min-height: 9pt; "><font face="Arial"><span style="font-size:8pt">Actual - the hamburger menu is getting misaligned and all sub menu and footers are getting underlined.  </span></font></div>
+<div align="left" style="line-height: 9pt; min-height: 9pt; "></div>
+<div align="left" style="line-height: 9pt; min-height: 9pt; "><font face="Arial"><span style="font-size:8pt">- Able to reproduce in iOS and Android also desktop.</span></font></div>
+</body>
+</html>
+2018-05-25 18:22:55 INFO  QCInitalConnection:148 - -------------------------------------------------------
+2018-05-25 18:22:55 DEBUG QCInitalConnection:149 - <html>
+<body>
+<div align="left" style="line-height: 9pt; min-height: 9pt; "><font face="Arial"><span style="font-size:8pt">Dear Support team,</span></font></div>
+<div align="left" style="line-height: 9pt; min-height: 9pt; "></div>
+<div align="left" style="line-height: 10pt; min-height: 10pt; "><font face="Arial"><span style="font-size:8pt">we have received an enquiry from the CN CS team that </span></font><font face="Arial"><span style="font-size:8pt">a wrong freight charge showed on the website comparing on what she obtained from the CS team.</span></font></div>
+<div align="left" style="line-height: 9pt; min-height: 9pt; "></div>
+<div align="left" style="line-height: 9pt; min-height: 9pt; "><font face="Arial"><span style="font-size:8pt">Would you mind to look into the case for us?</span></font></div>
+<div align="left" style="line-height: 9pt; min-height: 9pt; "></div>
+<div align="left" style="line-height: 9pt; min-height: 9pt; "><font face="Arial"><span style="font-size:8pt">I have attached the email chain in advance</span></font></div>
+<div align="left" style="line-height: 9pt; min-height: 9pt; "><font face="Arial"><span style="font-size:8pt">Derrick</span></font></div>
+<div align="left" style="line-height: 9pt; min-height: 9pt; "></div>
+</body>
+</html>
+2018-05-25 18:22:55 INFO  QCInitalConnection:148 - -------------------------------------------------------
+2018-05-25 18:22:55 DEBUG QCInitalConnection:149 - <html>
+<body>
+<div align="left" style="min-height: 9pt; "><font face="Arial"><span dir="ltr" style="font-size:8pt">WIFM1980- &quot;Get  transit time&quot; button is not getting displayed when &quot;No. of Packages&quot; is more than one.</span></font></div>
+<div align="left" style="min-height: 9pt; "></div>
+<div align="left" style="min-height: 9pt; "><font face="Arial"><span dir="ltr" style="font-size:8pt">Credentials:</span></font></div>
+<div align="left" style="min-height: 9pt; "><font face="Arial"><span dir="ltr" style="font-size:8pt"> </span></font></div>
+<div align="left" style="min-height: 9pt; "><font face="Arial"><span dir="ltr" style="font-size:8pt">url: www.fedex.com/kr_english/</span></font></div>
+<div align="left" style="min-height: 9pt; "><font face="Arial"><span dir="ltr" style="font-size:8pt"> </span></font></div>
+<div align="left" style="min-height: 9pt; "><font face="Arial"><span dir="ltr" style="font-size:8pt">Username:regusrkr(Test User)</span></font></div>
+<div align="left" style="min-height: 9pt; "><font face="Arial"><span dir="ltr" style="font-size:8pt">Password:Test1234</span></font></div>
+<div align="left" style="min-height: 9pt; "><font face="Arial"><span dir="ltr" style="font-size:8pt"> </span></font></div>
+<div align="left" style="min-height: 9pt; "><font face="Arial"><span dir="ltr" style="font-size:8pt">Steps to Reproduce: </span></font></div>
+<div align="left" style="min-height: 9pt; "><font face="Arial"><span dir="ltr" style="font-size:8pt"> </span></font></div>
+<div align="left" style="min-height: 9pt; "><font face="Arial"><span dir="ltr" style="font-size:8pt">1. Login to Get Rates & Transit Times Application.</span></font></div>
+<div align="left" style="min-height: 9pt; "><font face="Arial"><span dir="ltr" style="font-size:8pt">2. Enter &quot;KR&quot; country details in &quot;From&quot; Module</span></font></div>
+<div align="left" style="min-height: 9pt; "><font face="Arial"><span dir="ltr" style="font-size:8pt">3. Enter &quot;US&quot; address details in &quot;To&quot; Module.</span></font></div>
+<div align="left" style="min-height: 9pt; "><font face="Arial"><span dir="ltr" style="font-size:8pt">4. Under Additional Information, Enter &quot;No. of packages: 2&quot; </span></font></div>
+<div align="left" style="min-height: 9pt; "><font face="Arial"><span dir="ltr" style="font-size:8pt">5. Verify &quot;Get transit time&quot; button.</span></font></div>
+<div align="left" style="min-height: 9pt; "></div>
+<div align="left" style="min-height: 9pt; "><font face="Arial"><span dir="ltr" style="font-size:8pt">Expected result : &quot;Get transit time&quot; button should be displayed for MPS also.</span></font></div>
+<div align="left" style="min-height: 9pt; "><font face="Arial"><span dir="ltr" style="font-size:8pt"> </span></font></div>
+<div align="left" style="min-height: 9pt; "><font face="Arial"><span dir="ltr" style="font-size:8pt">Actual Result: &quot;Get  transit time&quot; button is not getting displayed when &quot;No. of Packages&quot; is more than one.</span></font></div>
+<div align="left" style="min-height: 9pt; "><font face="Arial"><span dir="ltr" style="font-size:8pt"> </span></font></div>
+<div align="left" style="min-height: 9pt; "><font face="Arial"><span dir="ltr" style="font-size:8pt">Please find the attached screen shots for reference.</span></font></div>
+</body>
+</html>
+2018-05-25 18:22:55 INFO  QCInitalConnection:148 - -------------------------------------------------------
+2018-05-25 18:22:55 DEBUG QCInitalConnection:149 - <html>
+<body>
+<div align="left" style="min-height: 9pt; "><font face="Arial"><span dir="ltr" style="font-size:8pt">Description:</span></font></div>
+<div align="left" style="min-height: 9pt; "></div>
+<div align="left" style="min-height: 9pt; "><font face="Arial"><span dir="ltr" style="font-size:8pt">WGRT_Unable to proceed Freight shipment</span></font></div>
+<div align="left" style="min-height: 9pt; "></div>
+<div align="left" style="min-height: 9pt; "><font face="Arial"><span dir="ltr" style="font-size:8pt">St</span></font><font face="Arial"><span dir="ltr" style="font-size:8pt">eps to reproduce:</span></font></div>
+<div align="left" style="min-height: 9pt; "></div>
+<ul style="margin-top: 0mm; margin-bottom: 0mm; margin-left: 0mm; padding-left: 0pt;list-style-type: disc; ">
+<li style="margin-left: 24pt; margin-right: 0pt; padding-left: 0pt; text-indent: 0pt; font-size: 10pt;  "><font face="Arial"><span dir="ltr" style="font-size:8pt; font-family:Arial; color:#000000; font-weight:Normal; font-style:Normal; font-decoration:Normal">Navigate to </span></font><a href="https://wwwdev.idev.fedex.com/ratefinder/home?cc=US&language=en&locId=express" ><font face="Arial"><span dir="ltr" style="font-size:8pt">https://wwwdev.idev.fedex.com/ratefinder/home?cc=US&language=en&locId=express</span></font></a></li>
+<li style="margin-left: 24pt; margin-right: 0pt; padding-left: 0pt; text-indent: 0pt; font-size: 10pt;  "><font face="Arial"><span dir="ltr" style="font-size:8pt; font-family:Arial; color:#000000; font-weight:Normal; font-style:Normal; font-decoration:Normal">Click on Freight > LTL Rates</span></font></li>
+<li style="margin-left: 24pt; margin-right: 0pt; padding-left: 0pt; text-indent: 0pt; font-size: 10pt;  "><font face="Arial"><span dir="ltr" style="font-size:8pt; font-family:Arial; color:#000000; font-weight:Normal; font-style:Normal; font-decoration:Normal">Enter FROM and TO, Shipment details and click on 'Get rates and Transit times' button</span></font></li>
+</ul>
+<div align="left" style="min-height: 9pt; "></div>
+<div align="left" style="min-height: 9pt; "><font face="Arial"><span dir="ltr" style="font-size:8pt">Expected result:</span></font></div>
+<div align="left" style="min-height: 9pt; "><font face="Arial"><span dir="ltr" style="font-size:8pt">Rates and transit times for the data entered should be displayed </span></font></div>
+<div align="left" style="min-height: 9pt; "></div>
+<div align="left" style="min-height: 9pt; "><font face="Arial"><span dir="ltr" style="font-size:8pt">Actual Result:</span></font></div>
+<div align="left" style="min-height: 9pt; "><font face="Arial"><span dir="ltr" style="font-size:8pt">Error message is displayed.PFA</span></font></div>
+<div align="left" style="min-height: 9pt; "></div>
+<div align="left" style="min-height: 9pt; "></div>
+</body>
+</html>
+2018-05-25 18:22:55 INFO  QCInitalConnection:148 - -------------------------------------------------------
+2018-05-25 18:22:55 DEBUG QCInitalConnection:149 - <html>
+<body>
+<div align="left" style="min-height: 9pt; "><font face="Arial"><span dir="ltr" style="font-size:8pt">When logged in user gets rate and click the Ship button, the information in the To Field does not auto-polulate on the Shipping Screen.</span></font></div>
+<div align="left" style="min-height: 9pt; "></div>
+<div align="left" style="min-height: 9pt; "><font face="Arial"><span dir="ltr" style="font-size:8pt"><u>Duplication Steps</u></span></font></div>
+<ol style="margin-top: 0mm; margin-bottom: 0mm; margin-left: 0mm; padding-left: 0pt;list-style-type: none; ">
+<li style="margin-left: 15pt; margin-right: 0pt; padding-left: 0pt; text-indent: 0pt; "><a href="www.fedex.com/us "><font face="Arial"><span dir="ltr" style="font-size:8pt">www.fedex.com/us</span></font></a></li>
+<li style="margin-left: 15pt; margin-right: 0pt; padding-left: 0pt; text-indent: 0pt; "><font face="Arial"><span dir="ltr" style="font-size:8pt">Login Acting as:  Shane Dunn    </span></font>
+</li>
+</ol>
+<div align="left" style="margin-left:13mm; margin-right:0mm; text-indent:0mm; margin-top:0mm; margin-bottom:0mm; min-height: 9pt; "><font face="Arial"><span dir="ltr" style="font-size:8pt">User ID:  shanedunn1728    </span></font></div>
+<div align="left" style="margin-left:13mm; margin-right:0mm; text-indent:0mm; margin-top:0mm; margin-bottom:0mm; min-height: 9pt; "><font face="Arial"><span dir="ltr" style="font-size:8pt">Temporary Password  6Q6QQTSUJ7  </span></font></div>
+<ol style="margin-top: 0mm; margin-bottom: 0mm; margin-left: 0mm; padding-left: 0pt;list-style-type: none; ">
+<li style="margin-left: 15pt; margin-right: 0pt; padding-left: 0pt; text-indent: 0pt; "><font face="Arial"><span dir="ltr" style="font-size:8pt">Shipping>Shippin Rates &Delivery Times</span></font></li>
+<li style="margin-left: 15pt; margin-right: 0pt; padding-left: 0pt; text-indent: 0pt; "><font face="Arial"><span dir="ltr" style="font-size:8pt">Choose a Contact Name from Address Book or enter test address in the To fields</span></font></li>
+<li style="margin-left: 15pt; margin-right: 0pt; padding-left: 0pt; text-indent: 0pt; "><font face="Arial"><span dir="ltr" style="font-size:8pt">Enter test Package and Shipment information</span></font></li>
+<li style="margin-left: 15pt; margin-right: 0pt; padding-left: 0pt; text-indent: 0pt; "><font face="Arial"><span dir="ltr" style="font-size:8pt">Click Get detailed quote</span></font></li>
+<li style="margin-left: 15pt; margin-right: 0pt; padding-left: 0pt; text-indent: 0pt; "><font face="Arial"><span dir="ltr" style="font-size:8pt">Click the rate that you want shipped and then click the Ship button</span></font>
+</li>
+</ol>
+<div align="left" style="min-height: 9pt; "></div>
+<div align="left" style="min-height: 9pt; "><font face="Arial"><span dir="ltr" style="font-size:8pt"><u>Expected Results</u></span></font></div>
+<div align="left" style="min-height: 9pt; "><font face="Arial"><span dir="ltr" style="font-size:8pt">Address should auto-populate in the To address fields the same as entered in the Rate screen</span></font></div>
+<div align="left" style="min-height: 9pt; "></div>
+<div align="left" style="min-height: 9pt; "><font face="Arial"><span dir="ltr" style="font-size:8pt"><u>Actual Results</u></span></font></div>
+<div align="left" style="min-height: 9pt; "><font face="Arial"><span dir="ltr" style="font-size:8pt">Address To fields are blank</span></font></div>
+<div align="left" style="min-height: 9pt; "></div>
+<div align="left" style="min-height: 9pt; "><font face="Arial"><span dir="ltr" style="font-size:8pt"><u>Customer Info</u></span></font></div>
+<div align="left" style="min-height: 9pt; "><font face="Arial"><span dir="ltr" style="font-size:8pt">Account #:  633945101</span></font></div>
+<div align="left" style="min-height: 9pt; "><font face="Arial"><span dir="ltr" style="font-size:8pt">UUID:  g0g00324th </span></font></div>
+<div align="left" style="min-height: 9pt; "><font face="Arial"><span dir="ltr" style="font-size:8pt">FSM User</span></font></div>
+<div align="left" style="min-height: 9pt; "><font face="Arial"><span dir="ltr" style="font-size:8pt">WGRT Admin</span></font></div>
+<div align="left" style="min-height: 9pt; "></div>
+</body>
+</html>
+2018-05-25 18:22:55 INFO  QCInitalConnection:148 - -------------------------------------------------------
+2018-05-25 18:22:55 DEBUG QCInitalConnection:149 - <html>
+<body>
+<div align="left" style="min-height: 9pt; "><font face="Arial"><span dir="ltr" style="font-size:8pt">WGRT_In Special Services Option, Signature type is not available when moved to Rates and Transit Times </span></font></div>
+<div align="left" style="min-height: 9pt; "></div>
+<div align="left" style="min-height: 9pt; "><font face="Arial"><span dir="ltr" style="font-size:8pt"><b>Steps to Reproduce:</b></span></font></div>
+<div align="left" style="min-height: 9pt; "></div>
+<ul style="margin-top: 0mm; margin-bottom: 0mm; margin-left: 0mm; padding-left: 0pt;list-style-type: disc; ">
+<li style="margin-left: 33pt; margin-right: 0pt; padding-left: 0pt; text-indent: 0pt; font-size: 10pt;  "><font face="Arial"><span dir="ltr" style="font-size:8pt; font-family:Arial; color:#000000; font-weight:Normal; font-style:Normal; font-decoration:Normal">Navigate to </span></font><a href="https://wwwdrt.idev.fedex.com/ratefinder/home?cc=US&language=en&locId=express" ><font face="Arial" color="#0563c1"><span dir="ltr" style="font-size:8pt">https://wwwdrt.idev.fedex.com/ratefinder/home?cc=US&language=en&locId=express</span></font></a></li>
+<li style="margin-left: 33pt; margin-right: 0pt; padding-left: 0pt; text-indent: 0pt; font-size: 10pt;  "><font face="Arial"><span dir="ltr" style="font-size:8pt; font-family:Arial; color:#000000; font-weight:Normal; font-style:Normal; font-decoration:Normal">Enter the Ship from as US, Zip code as 38125 and To as US, Zip code as 10001 and fill the valid required fields, click on ‘Get Detailed Quote’</span></font></li>
+<li style="margin-left: 33pt; margin-right: 0pt; padding-left: 0pt; text-indent: 0pt; font-size: 10pt;  "><font face="Arial"><span dir="ltr" style="font-size:8pt; font-family:Arial; color:#000000; font-weight:Normal; font-style:Normal; font-decoration:Normal">In Package and Shipment Details, fill the required fields and click on ‘Add Special service’</span></font></li>
+<li style="margin-left: 33pt; margin-right: 0pt; padding-left: 0pt; text-indent: 0pt; font-size: 10pt;  "><font face="Arial"><span dir="ltr" style="font-size:8pt; font-family:Arial; color:#000000; font-weight:Normal; font-style:Normal; font-decoration:Normal">In Special Service Options, click on the ‘Dry Ice’ checkbox, Signature type as ‘Direct Signature Required’ and FedEx Return solutions as ‘Email label’</span></font></li>
+<li style="margin-left: 33pt; margin-right: 0pt; padding-left: 0pt; text-indent: 0pt; font-size: 10pt;  "><font face="Arial"><span dir="ltr" style="font-size:8pt; font-family:Arial; color:#000000; font-weight:Normal; font-style:Normal; font-decoration:Normal">Click on ‘Continue’ button.</span></font></li>
+</ul>
+<div align="left" style="margin-left:6mm; margin-right:0mm; text-indent:0mm; margin-top:0mm; margin-bottom:0mm; min-height: 9pt; "></div>
+<div align="left" style="min-height: 9pt; "><font face="Arial"><span dir="ltr" style="font-size:8pt">(</span><span dir="ltr" style="font-size:8pt"><b>Note</b></span><span dir="ltr" style="font-size:8pt">: The Same issue exists for Login Scenario)</span></font></div>
+<div align="left" style="min-height: 9pt; "></div>
+<div align="left" style="min-height: 9pt; "><font face="Arial"><span dir="ltr" style="font-size:8pt"><b>Expected Result:</b></span></font></div>
+<div align="left" style="min-height: 9pt; "></div>
+<div align="left" style="min-height: 9pt; "><font face="Arial"><span dir="ltr" style="font-size:8pt">                In Special services options-> Dry ice, Direct Signature and Email Label should be displayed.</span></font></div>
+<div align="left" style="min-height: 9pt; "></div>
+<div align="left" style="min-height: 9pt; "><font face="Arial"><span dir="ltr" style="font-size:8pt"><b>Actual Result:</b></span></font></div>
+<div align="left" style="min-height: 9pt; "></div>
+<div align="left" style="min-height: 9pt; "><font face="Arial"><span dir="ltr" style="font-size:8pt">                In Special services options->Dry Ice ,  , Email Label been displayed.</span></font></div>
+<div align="left" style="min-height: 9pt; "></div>
+</body>
+</html>
+2018-05-25 18:22:56 DEBUG QCGenerateExcel:40 - Calling Create Excel
+2018-05-25 18:22:56 DEBUG QCGenerateExcel:87 - Writesheet.xlsx written successfully
+2018-05-25 18:22:58 DEBUG QCInitalConnection:58 - 3626150
+2018-05-25 18:22:58 DEBUG QCConnectionV1:13 - Project Successfully Conneted..
+2018-05-25 18:22:58 DEBUG QCInitalConnection:157 - >>>>>>>>>> Entering DoInit Method <<<<<<<<<<<
+2018-05-25 18:22:59 DEBUG QCConnectionV1:15 - Project Successfully DisConneted..
+2018-05-25 18:31:00 DEBUG QCConnectionV1:9 - Entering Main Method .. 
+2018-05-25 18:31:00 INFO  QCInitalConnection:33 - >>>>>>>>>> Entering DoInit Method <<<<<<<<<<<
+2018-05-25 18:31:11 DEBUG QCInitalConnection:37 - true Connected
+2018-05-25 18:31:23 DEBUG QCInitalConnection:40 - true Logged In !!!
+2018-05-25 18:31:23 DEBUG QCInitalConnection:42 - Db Name fedex_central_defects_db
+2018-05-25 18:31:29 DEBUG QCInitalConnection:77 - Total Bug List11
+2018-05-25 18:31:30 DEBUG QCGenerateExcel:40 - Calling Create Excel
+2018-05-25 18:31:30 DEBUG QCGenerateExcel:87 - Writesheet.xlsx written successfully
+2018-05-25 18:31:32 DEBUG QCInitalConnection:58 - 3626150
+2018-05-25 18:31:32 DEBUG QCConnectionV1:13 - Project Successfully Conneted..
+2018-05-25 18:31:32 DEBUG QCInitalConnection:158 - >>>>>>>>>> Entering DoInit Method <<<<<<<<<<<
+2018-05-25 18:31:33 DEBUG QCConnectionV1:15 - Project Successfully DisConneted..
+2018-05-28 19:07:48 DEBUG QCConnectionV1:9 - Entering Main Method .. 
+2018-05-28 19:07:48 INFO  QCInitalConnection:34 - >>>>>>>>>> Entering DoInit Method <<<<<<<<<<<
+2018-05-28 19:07:59 DEBUG QCInitalConnection:38 - true Connected
+2018-05-28 19:08:21 DEBUG QCInitalConnection:41 - true Logged In !!!
+2018-05-28 19:08:21 DEBUG QCInitalConnection:43 - Db Name fedex_central_defects_db
+2018-05-28 19:08:21 INFO  QCPropertyInputData:15 - Inside getInputData method
+2018-05-28 19:08:21 DEBUG QCPropertyInputData:25 - Project Name [WGRT, WGRM] Size 2
+2018-05-28 19:08:21 DEBUG QCPropertyInputData:31 - i0 wgrt.assigned.team.filter
+2018-05-28 19:08:21 DEBUG QCPropertyInputData:31 - i0 wgrt.status.filters
+2018-05-28 19:08:21 DEBUG QCPropertyInputData:31 - i1 wgrm.assigned.team.filter
+2018-05-28 19:08:21 DEBUG QCPropertyInputData:31 - i1 wgrm.status.filters
+2018-05-28 19:08:21 DEBUG QCInitalConnection:72 - Inside getBugList >> initialPropertyData >> {wgrm.status.filters=Not Cancelled And  Not Closed, wgrt.status.filters=Not Cancelled And  Not Closed, wgrt.assigned.team.filter=Not DA-Marketing, wgrm.assigned.team.filter=Not DA-Marketing}
+2018-05-28 19:08:21 DEBUG QCConnectionV1:13 - Project Successfully Conneted..
+2018-05-28 19:08:21 DEBUG QCInitalConnection:163 - >>>>>>>>>> Entering DoInit Method <<<<<<<<<<<
+2018-05-28 19:08:21 DEBUG QCConnectionV1:15 - Project Successfully DisConneted..
+2018-05-29 11:40:32 DEBUG QCConnectionV1:9 - Entering Main Method .. 
+2018-05-29 11:40:32 INFO  QCInitalConnection:34 - >>>>>>>>>> Entering DoInit Method <<<<<<<<<<<
+2018-05-29 11:40:40 DEBUG QCInitalConnection:38 - true Connected
+2018-05-29 11:40:58 DEBUG QCInitalConnection:41 - true Logged In !!!
+2018-05-29 11:40:58 DEBUG QCInitalConnection:43 - Db Name fedex_central_defects_db
+2018-05-29 11:40:58 INFO  QCPropertyInputData:15 - Inside getInputData method
+2018-05-29 11:40:58 DEBUG QCPropertyInputData:25 - Project Name [WGRT, WGRM] Size 2
+2018-05-29 11:40:58 DEBUG QCPropertyInputData:31 - i0 wgrt.assigned.team.filter
+2018-05-29 11:40:58 DEBUG QCPropertyInputData:31 - i0 wgrt.status.filters
+2018-05-29 11:40:58 DEBUG QCPropertyInputData:31 - i1 wgrm.assigned.team.filter
+2018-05-29 11:40:58 DEBUG QCPropertyInputData:31 - i1 wgrm.status.filters
+2018-05-29 11:40:58 DEBUG QCInitalConnection:72 - Inside getBugList >> initialPropertyData >> {wgrm.status.filters=Not Cancelled And  Not Closed, wgrt.status.filters=Not Cancelled And  Not Closed, wgrt.assigned.team.filter=Not DA-Marketing, wgrm.assigned.team.filter=Not DA-Marketing}
+2018-05-29 11:41:02 DEBUG QCInitalConnection:83 - Total Bug List11
+2018-05-29 11:41:02 DEBUG QCInitalConnection:94 - Calling Generate Excel method Calling >>
+2018-05-29 11:41:03 DEBUG QCGenerateExcel:40 - Calling Create Excel
+2018-05-29 11:41:05 DEBUG QCGenerateExcel:87 - Writesheet.xlsx written successfully
+2018-05-29 11:41:12 DEBUG QCConnectionV1:13 - Project Successfully Conneted..
+2018-05-29 11:41:12 DEBUG QCInitalConnection:165 - >>>>>>>>>> Entering DoInit Method <<<<<<<<<<<
+2018-05-29 11:41:14 DEBUG QCConnectionV1:15 - Project Successfully DisConneted..
+2018-05-29 11:57:39 DEBUG QCConnectionV1:9 - Entering Main Method .. 
+2018-05-29 11:57:40 INFO  QCInitalConnection:34 - >>>>>>>>>> Entering DoInit Method <<<<<<<<<<<
+2018-05-29 11:57:53 DEBUG QCInitalConnection:38 - true Connected
+2018-05-29 11:58:07 DEBUG QCInitalConnection:41 - true Logged In !!!
+2018-05-29 11:58:07 DEBUG QCInitalConnection:43 - Db Name fedex_central_defects_db
+2018-05-29 11:58:07 INFO  QCPropertyInputData:15 - Inside getInputData method
+2018-05-29 11:58:07 DEBUG QCPropertyInputData:25 - Project Name [WGRT, WGRM] Size 2
+2018-05-29 11:58:07 DEBUG QCPropertyInputData:31 - i0 wgrt.assigned.team.filter
+2018-05-29 11:58:07 DEBUG QCPropertyInputData:31 - i0 wgrt.status.filters
+2018-05-29 11:58:07 DEBUG QCPropertyInputData:31 - i1 wgrm.assigned.team.filter
+2018-05-29 11:58:07 DEBUG QCPropertyInputData:31 - i1 wgrm.status.filters
+2018-05-29 11:58:07 DEBUG QCInitalConnection:72 - Inside getBugList >> initialPropertyData >> {wgrm.status.filters=Not Cancelled And  Not Closed, wgrt.status.filters=Not Cancelled And  Not Closed, wgrt.assigned.team.filter=Not DA-Marketing, wgrm.assigned.team.filter=Not DA-Marketing}
+2018-05-29 11:58:07 INFO  QCInitalConnection:75 - <<<<<<<< For Loop Start >>>>>
+2018-05-29 11:58:07 INFO  QCInitalConnection:99 - <<<<<<<< For Loop End >>>>>
+2018-05-29 11:58:07 DEBUG QCConnectionV1:13 - Project Successfully Conneted..
+2018-05-29 11:58:07 DEBUG QCInitalConnection:169 - >>>>>>>>>> Entering DoInit Method <<<<<<<<<<<
+2018-05-29 11:58:08 DEBUG QCConnectionV1:15 - Project Successfully DisConneted..
+2018-05-29 11:59:30 DEBUG QCConnectionV1:9 - Entering Main Method .. 
+2018-05-29 11:59:30 INFO  QCInitalConnection:34 - >>>>>>>>>> Entering DoInit Method <<<<<<<<<<<
+2018-05-29 11:59:32 DEBUG QCInitalConnection:38 - true Connected
+2018-05-29 11:59:47 DEBUG QCInitalConnection:41 - true Logged In !!!
+2018-05-29 11:59:47 DEBUG QCInitalConnection:43 - Db Name fedex_central_defects_db
+2018-05-29 11:59:47 INFO  QCPropertyInputData:15 - Inside getInputData method
+2018-05-29 11:59:47 DEBUG QCPropertyInputData:25 - Project Name [WGRT, WGRM] Size 2
+2018-05-29 11:59:47 DEBUG QCPropertyInputData:31 - i0 wgrt.assigned.team.filter
+2018-05-29 11:59:47 DEBUG QCPropertyInputData:31 - i0 wgrt.status.filters
+2018-05-29 11:59:47 DEBUG QCPropertyInputData:31 - i1 wgrm.assigned.team.filter
+2018-05-29 11:59:47 DEBUG QCPropertyInputData:31 - i1 wgrm.status.filters
+2018-05-29 11:59:47 DEBUG QCInitalConnection:72 - Inside getBugList >> initialPropertyData >> {wgrm.status.filters=Not Cancelled And  Not Closed, wgrt.status.filters=Not Cancelled And  Not Closed, wgrt.assigned.team.filter=Not DA-Marketing, wgrm.assigned.team.filter=Not DA-Marketing}Size0
+2018-05-29 11:59:47 INFO  QCInitalConnection:75 - <<<<<<<< For Loop Start >>>>>
+2018-05-29 11:59:47 INFO  QCInitalConnection:99 - <<<<<<<< For Loop End >>>>>
+2018-05-29 11:59:47 DEBUG QCConnectionV1:13 - Project Successfully Conneted..
+2018-05-29 11:59:47 DEBUG QCInitalConnection:169 - >>>>>>>>>> Entering DoInit Method <<<<<<<<<<<
+2018-05-29 11:59:48 DEBUG QCConnectionV1:15 - Project Successfully DisConneted..
+2018-05-29 12:02:42 DEBUG QCConnectionV1:9 - Entering Main Method .. 
+2018-05-29 12:02:42 INFO  QCInitalConnection:34 - >>>>>>>>>> Entering DoInit Method <<<<<<<<<<<
+2018-05-29 12:02:44 DEBUG QCInitalConnection:38 - true Connected
+2018-05-29 12:02:58 DEBUG QCInitalConnection:41 - true Logged In !!!
+2018-05-29 12:02:58 DEBUG QCInitalConnection:43 - Db Name fedex_central_defects_db
+2018-05-29 12:02:58 INFO  QCPropertyInputData:15 - Inside getInputData method
+2018-05-29 12:02:58 DEBUG QCPropertyInputData:25 - Project Name [WGRT, WGRM] Size 2
+2018-05-29 12:02:58 DEBUG QCPropertyInputData:31 - i0 wgrt.assigned.team.filter
+2018-05-29 12:02:58 DEBUG QCPropertyInputData:31 - i0 wgrt.status.filters
+2018-05-29 12:02:58 DEBUG QCPropertyInputData:31 - i1 wgrm.assigned.team.filter
+2018-05-29 12:02:58 DEBUG QCPropertyInputData:31 - i1 wgrm.status.filters
+2018-05-29 12:02:58 DEBUG QCInitalConnection:72 - Inside getBugList >> initialPropertyData >> {wgrm.status.filters=Not Cancelled And  Not Closed, wgrt.status.filters=Not Cancelled And  Not Closed, wgrt.assigned.team.filter=Not DA-Marketing, wgrm.assigned.team.filter=Not DA-Marketing}Size0
+2018-05-29 12:02:58 INFO  QCInitalConnection:75 - <<<<<<<< For Loop Start >>>>>
+2018-05-29 12:02:58 INFO  QCInitalConnection:99 - <<<<<<<< For Loop End >>>>>
+2018-05-29 12:02:58 DEBUG QCConnectionV1:13 - Project Successfully Conneted..
+2018-05-29 12:02:58 DEBUG QCInitalConnection:169 - >>>>>>>>>> Entering DoInit Method <<<<<<<<<<<
+2018-05-29 12:02:59 DEBUG QCConnectionV1:15 - Project Successfully DisConneted..
+2018-05-29 12:04:09 DEBUG QCConnectionV1:9 - Entering Main Method .. 
+2018-05-29 12:04:09 INFO  QCInitalConnection:34 - >>>>>>>>>> Entering DoInit Method <<<<<<<<<<<
+2018-05-29 12:04:20 DEBUG QCInitalConnection:38 - true Connected
+2018-05-29 12:04:34 DEBUG QCInitalConnection:41 - true Logged In !!!
+2018-05-29 12:04:34 DEBUG QCInitalConnection:43 - Db Name fedex_central_defects_db
+2018-05-29 12:04:34 INFO  QCPropertyInputData:15 - Inside getInputData method
+2018-05-29 12:04:34 DEBUG QCPropertyInputData:24 - Project Name [WGRT, WGRM] Size 2
+2018-05-29 12:04:34 DEBUG QCPropertyInputData:30 - i0 wgrt.assigned.team.filter
+2018-05-29 12:04:34 DEBUG QCPropertyInputData:30 - i0 wgrt.status.filters
+2018-05-29 12:04:34 DEBUG QCPropertyInputData:30 - i1 wgrm.assigned.team.filter
+2018-05-29 12:04:34 DEBUG QCPropertyInputData:30 - i1 wgrm.status.filters
+2018-05-29 12:04:34 DEBUG QCInitalConnection:72 - Inside getBugList >> initialPropertyData >> {wgrm.status.filters=Not Cancelled And  Not Closed, wgrt.status.filters=Not Cancelled And  Not Closed, wgrt.assigned.team.filter=Not DA-Marketing, wgrm.assigned.team.filter=Not DA-Marketing}Size2
+2018-05-29 12:04:34 INFO  QCInitalConnection:75 - <<<<<<<< For Loop Start >>>>>
+2018-05-29 12:04:37 DEBUG QCInitalConnection:85 - Total Bug List11
+2018-05-29 12:04:38 DEBUG QCInitalConnection:96 - Calling Generate Excel method Calling >>
+2018-05-29 12:04:38 DEBUG QCGenerateExcel:40 - Calling Create Excel
+2018-05-29 12:04:40 DEBUG QCGenerateExcel:87 - Writesheet.xlsx written successfully
+2018-05-29 12:04:42 DEBUG QCInitalConnection:85 - Total Bug List2
+2018-05-29 12:04:42 DEBUG QCInitalConnection:96 - Calling Generate Excel method Calling >>
+2018-05-29 12:04:42 DEBUG QCGenerateExcel:40 - Calling Create Excel
+2018-05-29 12:04:42 DEBUG QCGenerateExcel:87 - Writesheet.xlsx written successfully
+2018-05-29 12:04:42 INFO  QCInitalConnection:99 - <<<<<<<< For Loop End >>>>>
+2018-05-29 12:04:42 DEBUG QCConnectionV1:13 - Project Successfully Conneted..
+2018-05-29 12:04:42 DEBUG QCInitalConnection:169 - >>>>>>>>>> Entering DoInit Method <<<<<<<<<<<
+2018-05-29 12:04:44 DEBUG QCConnectionV1:15 - Project Successfully DisConneted..
+2018-05-29 12:30:11 DEBUG QCConnectionV1:9 - Entering Main Method .. 
+2018-05-29 12:30:11 INFO  QCInitalConnection:35 - >>>>>>>>>> Entering DoInit Method <<<<<<<<<<<
+2018-05-29 12:30:21 DEBUG QCInitalConnection:39 - true Connected
+2018-05-29 12:30:35 DEBUG QCInitalConnection:42 - true Logged In !!!
+2018-05-29 12:30:35 DEBUG QCInitalConnection:44 - Db Name fedex_central_defects_db
+2018-05-29 12:30:35 INFO  QCPropertyInputData:15 - Inside getInputData method
+2018-05-29 12:30:35 DEBUG QCPropertyInputData:24 - Project Name [WGRT, WGRM] Size 2
+2018-05-29 12:30:35 DEBUG QCPropertyInputData:30 - i0 wgrt.assigned.team.filter
+2018-05-29 12:30:35 DEBUG QCPropertyInputData:30 - i0 wgrt.status.filters
+2018-05-29 12:30:35 DEBUG QCPropertyInputData:30 - i1 wgrm.assigned.team.filter
+2018-05-29 12:30:35 DEBUG QCPropertyInputData:30 - i1 wgrm.status.filters
+2018-05-29 12:30:35 DEBUG QCInitalConnection:74 - Inside getBugList >> initialPropertyData >> {wgrm.status.filters=Not Cancelled And  Not Closed, wgrt.status.filters=Not Cancelled And  Not Closed, wgrt.assigned.team.filter=Not DA-Marketing, wgrm.assigned.team.filter=Not DA-Marketing}Size2
+2018-05-29 12:30:35 INFO  QCInitalConnection:77 - <<<<<<<< For Loop Start >>>>>
+2018-05-29 12:30:38 DEBUG QCInitalConnection:87 - Total Bug List11
+2018-05-29 12:30:38 DEBUG QCInitalConnection:98 - Calling Generate Excel method Calling >>
+2018-05-29 12:30:39 DEBUG QCGenerateExcel:43 - Calling Create Excel
+2018-05-29 12:30:39 DEBUG QCGenerateExcel:91 - Writesheet.xlsx written successfully
+2018-05-29 12:30:42 DEBUG QCInitalConnection:87 - Total Bug List2
+2018-05-29 12:30:42 DEBUG QCInitalConnection:98 - Calling Generate Excel method Calling >>
+2018-05-29 12:30:42 DEBUG QCGenerateExcel:43 - Calling Create Excel
+2018-05-29 12:30:42 DEBUG QCGenerateExcel:91 - Writesheet.xlsx written successfully
+2018-05-29 12:30:42 INFO  QCInitalConnection:102 - <<<<<<<< For Loop End >>>>>
+2018-05-29 12:30:42 DEBUG QCConnectionV1:13 - Project Successfully Conneted..
+2018-05-29 12:30:42 DEBUG QCInitalConnection:172 - >>>>>>>>>> Entering DoInit Method <<<<<<<<<<<
+2018-05-29 12:30:43 DEBUG QCConnectionV1:15 - Project Successfully DisConneted..
+2018-05-29 14:30:33 DEBUG QCConnectionV1:9 - Entering Main Method .. 
+2018-05-29 14:30:33 INFO  QCInitalConnection:36 - >>>>>>>>>> Entering DoInit Method <<<<<<<<<<<
+2018-05-29 14:30:45 DEBUG QCInitalConnection:40 - true Connected
+2018-05-29 14:30:58 DEBUG QCInitalConnection:43 - true Logged In !!!
+2018-05-29 14:30:58 DEBUG QCInitalConnection:45 - Db Name fedex_central_defects_db
+2018-05-29 14:30:58 INFO  QCPropertyInputData:15 - Inside getInputData method
+2018-05-29 14:30:58 DEBUG QCPropertyInputData:24 - Project Name [WGRT, WGRM] Size 2
+2018-05-29 14:30:58 DEBUG QCPropertyInputData:30 - i0 wgrt.assigned.team.filter
+2018-05-29 14:30:58 DEBUG QCPropertyInputData:30 - i0 wgrt.status.filters
+2018-05-29 14:30:58 DEBUG QCPropertyInputData:30 - i1 wgrm.assigned.team.filter
+2018-05-29 14:30:58 DEBUG QCPropertyInputData:30 - i1 wgrm.status.filters
+2018-05-29 14:30:58 DEBUG QCInitalConnection:75 - Inside getBugList >> initialPropertyData >> {wgrm.status.filters=Not Cancelled And  Not Closed, wgrt.status.filters=Not Cancelled And  Not Closed, wgrt.assigned.team.filter=Not DA-Marketing, wgrm.assigned.team.filter=Not DA-Marketing}Size2
+2018-05-29 14:30:58 INFO  QCInitalConnection:78 - <<<<<<<< For Loop Start >>>>>
+2018-05-29 14:31:03 DEBUG QCInitalConnection:88 - Total Bug List11
+2018-05-29 14:31:04 DEBUG QCInitalConnection:99 - Calling Generate Excel method Calling >>
+2018-05-29 14:31:04 DEBUG QCGenerateExcel:42 - Calling Create Excel
+2018-05-29 14:31:06 DEBUG QCGenerateExcel:90 - Writesheet.xlsx written successfully
+2018-05-29 14:31:11 DEBUG QCInitalConnection:88 - Total Bug List2
+2018-05-29 14:31:11 DEBUG QCInitalConnection:99 - Calling Generate Excel method Calling >>
+2018-05-29 14:31:11 DEBUG QCGenerateExcel:42 - Calling Create Excel
+2018-05-29 14:31:11 DEBUG QCGenerateExcel:90 - Writesheet.xlsx written successfully
+2018-05-29 14:31:11 INFO  QCInitalConnection:102 - <<<<<<<< For Loop End >>>>>
+2018-05-29 14:31:11 DEBUG QCConnectionV1:13 - Project Successfully Conneted..
+2018-05-29 14:31:11 DEBUG QCInitalConnection:172 - >>>>>>>>>> Entering DoInit Method <<<<<<<<<<<
+2018-05-29 14:31:12 DEBUG QCConnectionV1:15 - Project Successfully DisConneted..
+2018-05-29 14:58:39 DEBUG QCConnectionV1:9 - Entering Main Method .. 
+2018-05-29 14:58:39 INFO  QCInitalConnection:39 - >>>>>>>>>> Entering DoInit Method <<<<<<<<<<<
+2018-05-29 14:58:43 DEBUG QCInitalConnection:43 - true Connected
+2018-05-29 14:58:56 DEBUG QCInitalConnection:46 - true Logged In !!!
+2018-05-29 14:58:56 DEBUG QCInitalConnection:48 - Db Name fedex_central_defects_db
+2018-05-29 14:58:57 INFO  QCPropertyInputData:15 - Inside getInputData method
+2018-05-29 14:58:57 DEBUG QCPropertyInputData:24 - Project Name [WGRT, WGRM] Size 2
+2018-05-29 14:58:57 DEBUG QCPropertyInputData:30 - i0 wgrt.assigned.team.filter
+2018-05-29 14:58:57 DEBUG QCPropertyInputData:30 - i0 wgrt.status.filters
+2018-05-29 14:58:57 DEBUG QCPropertyInputData:30 - i1 wgrm.assigned.team.filter
+2018-05-29 14:58:57 DEBUG QCPropertyInputData:30 - i1 wgrm.status.filters
+2018-05-29 14:58:57 DEBUG QCInitalConnection:81 - Inside getBugList >> initialPropertyData >> {wgrm.status.filters=Not Cancelled And  Not Closed, wgrt.status.filters=Not Cancelled And  Not Closed, wgrt.assigned.team.filter=Not DA-Marketing, wgrm.assigned.team.filter=Not DA-Marketing}Size2
+2018-05-29 14:58:57 INFO  QCInitalConnection:84 - <<<<<<<< For Loop Start >>>>>
+2018-05-29 14:59:04 DEBUG QCInitalConnection:94 - Total Bug List11
+2018-05-29 14:59:05 DEBUG QCInitalConnection:105 - Calling Generate Excel method Calling >>
+2018-05-29 14:59:05 DEBUG QCGenerateExcel:40 - Calling Create Excel
+2018-05-29 14:59:06 DEBUG QCGenerateExcel:88 - Writesheet.xlsx written successfully
+2018-05-29 14:59:16 DEBUG QCInitalConnection:94 - Total Bug List2
+2018-05-29 14:59:16 DEBUG QCInitalConnection:105 - Calling Generate Excel method Calling >>
+2018-05-29 14:59:16 DEBUG QCGenerateExcel:40 - Calling Create Excel
+2018-05-29 14:59:16 DEBUG QCGenerateExcel:88 - Writesheet.xlsx written successfully
+2018-05-29 14:59:16 INFO  QCInitalConnection:108 - <<<<<<<< For Loop End >>>>>
+2018-05-29 14:59:16 DEBUG QCConnectionV1:13 - Project Successfully Conneted..
+2018-05-29 14:59:16 DEBUG QCInitalConnection:178 - >>>>>>>>>> Entering DoInit Method <<<<<<<<<<<
+2018-05-29 14:59:17 DEBUG QCConnectionV1:15 - Project Successfully DisConneted..
+2018-05-29 15:02:27 DEBUG QCConnectionV1:9 - Entering Main Method .. 
+2018-05-29 15:02:27 INFO  QCInitalConnection:34 - >>>>>>>>>> Entering DoInit Method <<<<<<<<<<<
+2018-05-29 15:02:30 DEBUG QCInitalConnection:38 - true Connected
+2018-05-29 15:02:43 DEBUG QCInitalConnection:41 - true Logged In !!!
+2018-05-29 15:02:43 DEBUG QCInitalConnection:43 - Db Name fedex_central_defects_db
+2018-05-29 15:02:43 INFO  QCPropertyInputData:15 - Inside getInputData method
+2018-05-29 15:02:43 DEBUG QCPropertyInputData:24 - Project Name [WGRT, WGRM] Size 2
+2018-05-29 15:02:43 DEBUG QCPropertyInputData:30 - i0 wgrt.assigned.team.filter
+2018-05-29 15:02:43 DEBUG QCPropertyInputData:30 - i0 wgrt.status.filters
+2018-05-29 15:02:43 DEBUG QCPropertyInputData:30 - i1 wgrm.assigned.team.filter
+2018-05-29 15:02:43 DEBUG QCPropertyInputData:30 - i1 wgrm.status.filters
+2018-05-29 15:02:43 DEBUG QCInitalConnection:73 - Inside getBugList >> initialPropertyData >> {wgrm.status.filters=Not Cancelled And  Not Closed, wgrt.status.filters=Not Cancelled And  Not Closed, wgrt.assigned.team.filter=Not DA-Marketing, wgrm.assigned.team.filter=Not DA-Marketing}Size2
+2018-05-29 15:02:43 INFO  QCInitalConnection:76 - <<<<<<<< For Loop Start >>>>>
+2018-05-29 15:02:51 DEBUG QCInitalConnection:86 - Total Bug List11
+2018-05-29 15:02:59 DEBUG QCInitalConnection:86 - Total Bug List2
+2018-05-29 15:02:59 DEBUG QCInitalConnection:98 - Calling Generate Excel method Calling >>
+2018-05-29 15:02:59 DEBUG QCGenerateExcel:43 - Calling Create Excel
+2018-05-29 15:02:59 DEBUG QCGenerateExcel:91 - Writesheet.xlsx written successfully
+2018-05-29 15:02:59 INFO  QCInitalConnection:101 - <<<<<<<< For Loop End >>>>>
+2018-05-29 15:02:59 DEBUG QCConnectionV1:13 - Project Successfully Conneted..
+2018-05-29 15:02:59 DEBUG QCInitalConnection:171 - >>>>>>>>>> Entering DoInit Method <<<<<<<<<<<
+2018-05-29 15:03:01 DEBUG QCConnectionV1:15 - Project Successfully DisConneted..
+2018-05-29 15:04:32 DEBUG QCConnectionV1:9 - Entering Main Method .. 
+2018-05-29 15:04:32 INFO  QCInitalConnection:34 - >>>>>>>>>> Entering DoInit Method <<<<<<<<<<<
+2018-05-29 15:04:34 DEBUG QCInitalConnection:38 - true Connected
+2018-05-29 15:04:47 DEBUG QCInitalConnection:41 - true Logged In !!!
+2018-05-29 15:04:47 DEBUG QCInitalConnection:43 - Db Name fedex_central_defects_db
+2018-05-29 15:04:47 INFO  QCPropertyInputData:15 - Inside getInputData method
+2018-05-29 15:04:47 DEBUG QCPropertyInputData:24 - Project Name [WGRT, WGRM] Size 2
+2018-05-29 15:04:47 DEBUG QCPropertyInputData:30 - i0 wgrt.assigned.team.filter
+2018-05-29 15:04:47 DEBUG QCPropertyInputData:30 - i0 wgrt.status.filters
+2018-05-29 15:04:47 DEBUG QCPropertyInputData:30 - i1 wgrm.assigned.team.filter
+2018-05-29 15:04:47 DEBUG QCPropertyInputData:30 - i1 wgrm.status.filters
+2018-05-29 15:04:47 DEBUG QCInitalConnection:73 - Inside getBugList >> initialPropertyData >> {wgrm.status.filters=Not Cancelled And  Not Closed, wgrt.status.filters=Not Cancelled And  Not Closed, wgrt.assigned.team.filter=Not DA-Marketing, wgrm.assigned.team.filter=Not DA-Marketing}Size2
+2018-05-29 15:04:54 DEBUG QCInitalConnection:85 - Total Bug List11
+2018-05-29 15:05:01 DEBUG QCInitalConnection:85 - Total Bug List2
+2018-05-29 15:05:01 DEBUG QCInitalConnection:97 - Calling Generate Excel method Calling >>
+2018-05-29 15:05:01 DEBUG QCGenerateExcel:43 - Calling Create Excel
+2018-05-29 15:05:02 DEBUG QCGenerateExcel:91 - Writesheet.xlsx written successfully
+2018-05-29 15:05:02 DEBUG QCConnectionV1:13 - Project Successfully Conneted..
+2018-05-29 15:05:02 DEBUG QCInitalConnection:168 - >>>>>>>>>> Entering DoInit Method <<<<<<<<<<<
+2018-05-29 15:05:03 DEBUG QCConnectionV1:15 - Project Successfully DisConneted..
+2018-05-29 17:43:51 DEBUG QCConnectionV1:9 - Entering Main Method .. 
+2018-05-29 17:43:51 INFO  QCInitalConnection:34 - >>>>>>>>>> Entering DoInit Method <<<<<<<<<<<
+2018-05-29 17:44:03 DEBUG QCInitalConnection:38 - true Connected
+2018-05-29 17:44:03 DEBUG QCConnectionV1:13 - Project Successfully Conneted..
+2018-05-29 17:44:03 DEBUG QCInitalConnection:168 - >>>>>>>>>> Entering DoInit Method <<<<<<<<<<<
+2018-05-29 17:44:03 DEBUG QCConnectionV1:15 - Project Successfully DisConneted..
+2018-05-29 17:54:08 DEBUG QCConnectionV1:9 - Entering Main Method .. 
+2018-05-29 17:54:08 INFO  QCInitalConnection:34 - >>>>>>>>>> Entering DoInit Method <<<<<<<<<<<
+2018-05-29 17:54:19 DEBUG QCInitalConnection:38 - true Connected
+2018-05-29 17:54:19 DEBUG QCConnectionV1:13 - Project Successfully Conneted..
+2018-05-29 17:54:19 DEBUG QCInitalConnection:168 - >>>>>>>>>> Entering DoInit Method <<<<<<<<<<<
+2018-05-29 17:54:19 DEBUG QCConnectionV1:15 - Project Successfully DisConneted..
+2018-05-29 17:56:29 DEBUG QCConnectionV1:9 - Entering Main Method .. 
+2018-05-29 17:56:29 INFO  QCInitalConnection:34 - >>>>>>>>>> Entering DoInit Method <<<<<<<<<<<
+2018-05-29 17:56:31 DEBUG QCInitalConnection:38 - true Connected
+2018-05-29 17:56:31 DEBUG QCConnectionV1:13 - Project Successfully Conneted..
+2018-05-29 17:56:31 DEBUG QCInitalConnection:168 - >>>>>>>>>> Entering DoInit Method <<<<<<<<<<<
+2018-05-29 17:56:31 DEBUG QCConnectionV1:15 - Project Successfully DisConneted..
+2018-05-29 17:58:15 DEBUG QCConnectionV1:9 - Entering Main Method .. 
+2018-05-29 17:58:15 INFO  QCInitalConnection:34 - >>>>>>>>>> Entering DoInit Method <<<<<<<<<<<
+2018-05-29 17:58:17 DEBUG QCInitalConnection:38 - true Connected
+2018-05-29 17:58:17 DEBUG QCConnectionV1:13 - Project Successfully Conneted..
+2018-05-29 17:58:17 DEBUG QCInitalConnection:168 - >>>>>>>>>> Entering DoInit Method <<<<<<<<<<<
+2018-05-29 17:58:17 DEBUG QCConnectionV1:15 - Project Successfully DisConneted..
+2018-05-29 18:04:53 DEBUG QCConnectionV1:9 - Entering Main Method .. 
+2018-05-29 18:04:53 INFO  QCInitalConnection:34 - >>>>>>>>>> Entering DoInit Method <<<<<<<<<<<
+2018-05-29 18:05:04 DEBUG QCInitalConnection:38 - true Connected
+2018-05-29 18:05:04 DEBUG QCConnectionV1:13 - Project Successfully Conneted..
+2018-05-29 18:05:04 DEBUG QCInitalConnection:168 - >>>>>>>>>> Entering DoInit Method <<<<<<<<<<<
+2018-05-29 18:05:04 DEBUG QCConnectionV1:15 - Project Successfully DisConneted..
+2018-05-29 18:05:57 DEBUG QCConnectionV1:9 - Entering Main Method1 .. 
+2018-05-29 18:05:57 INFO  QCInitalConnection:37 - >>>>>>>>>> Constructor Calling <<<<<<<<<<<
+2018-05-29 18:05:57 INFO  QCPropertyInputData:74 - Inside loadPropertyFile method
+2018-05-29 18:05:57 DEBUG QCInitalConnection:45 - Initial values added
+2018-05-29 18:05:57 INFO  QCInitalConnection:53 - >>>>>>>>>> Entering DoInit Method1 <<<<<<<<<<<
+2018-05-29 18:05:59 DEBUG QCInitalConnection:57 - true Connected
+2018-05-29 18:05:59 DEBUG QCConnectionV1:13 - Project Successfully Conneted..
+2018-05-29 18:05:59 DEBUG QCInitalConnection:191 - >>>>>>>>>> Entering DoInit Method <<<<<<<<<<<
+2018-05-29 18:05:59 DEBUG QCConnectionV1:15 - Project Successfully DisConneted..
+2018-05-29 18:07:14 DEBUG QCConnectionV1:9 - Entering Main Method1 .. 
+2018-05-29 18:07:14 INFO  QCInitalConnection:37 - >>>>>>>>>> Constructor Calling <<<<<<<<<<<
+2018-05-29 18:07:14 INFO  QCPropertyInputData:74 - Inside loadPropertyFile method
+2018-05-29 18:07:14 DEBUG QCInitalConnection:45 - Initial values added5211292 
+2018-05-29 18:07:14 INFO  QCInitalConnection:53 - >>>>>>>>>> Entering DoInit Method1 <<<<<<<<<<<
+2018-05-29 18:07:16 DEBUG QCInitalConnection:57 - true Connected
+2018-05-29 18:07:16 DEBUG QCConnectionV1:13 - Project Successfully Conneted..
+2018-05-29 18:07:16 DEBUG QCInitalConnection:191 - >>>>>>>>>> Entering DoInit Method <<<<<<<<<<<
+2018-05-29 18:07:16 DEBUG QCConnectionV1:15 - Project Successfully DisConneted..
+2018-05-29 18:08:46 DEBUG QCConnectionV1:9 - Entering Main Method .. 
+2018-05-29 18:08:46 INFO  QCInitalConnection:37 - >>>>>>>>>> Constructor Calling <<<<<<<<<<<
+2018-05-29 18:08:46 INFO  QCPropertyInputData:74 - Inside loadPropertyFile method
+2018-05-29 18:08:46 DEBUG QCInitalConnection:45 - Initial values added
+2018-05-29 18:08:46 INFO  QCInitalConnection:53 - >>>>>>>>>> Entering DoInit Method <<<<<<<<<<<
+2018-05-29 18:08:48 DEBUG QCInitalConnection:57 - true Connected
+2018-05-29 18:09:02 DEBUG QCInitalConnection:60 - true Logged In !!!
+2018-05-29 18:09:02 DEBUG QCInitalConnection:62 - Db Name fedex_central_defects_db
+2018-05-29 18:09:02 INFO  QCPropertyInputData:17 - Inside getInputData method
+2018-05-29 18:09:02 INFO  QCPropertyInputData:74 - Inside loadPropertyFile method
+2018-05-29 18:09:02 INFO  QCPropertyInputData:74 - Inside loadPropertyFile method
+2018-05-29 18:09:02 DEBUG QCPropertyInputData:53 - Project Name [WGRT, WGRM] Size 2
+2018-05-29 18:09:02 DEBUG QCPropertyInputData:62 - i0 wgrt.assigned.team.filter
+2018-05-29 18:09:02 DEBUG QCPropertyInputData:62 - i0 wgrt.status.filters
+2018-05-29 18:09:02 DEBUG QCPropertyInputData:62 - i1 wgrm.assigned.team.filter
+2018-05-29 18:09:02 DEBUG QCPropertyInputData:62 - i1 wgrm.status.filters
+2018-05-29 18:09:02 DEBUG QCInitalConnection:92 - Inside getBugList >> initialPropertyData >> {wgrm.status.filters=Not Cancelled And  Not Closed, wgrt.status.filters=Not Cancelled And  Not Closed, wgrt.assigned.team.filter=Not DA-Marketing, wgrm.assigned.team.filter=Not DA-Marketing}Size2
+2018-05-29 18:09:06 DEBUG QCInitalConnection:109 - Total Bug List12
+2018-05-29 18:09:09 DEBUG QCInitalConnection:109 - Total Bug List2
+2018-05-29 18:09:09 DEBUG QCInitalConnection:120 - Calling Generate Excel method Calling >>
+2018-05-29 18:09:10 DEBUG QCGenerateExcel:43 - Calling Create Excel
+2018-05-29 18:09:11 DEBUG QCGenerateExcel:91 - Writesheet.xlsx written successfully
+2018-05-29 18:09:14 DEBUG QCConnectionV1:12 - Project Successfully Conneted..
+2018-05-29 18:09:14 DEBUG QCInitalConnection:191 - >>>>>>>>>> Entering DoInit Method <<<<<<<<<<<
+2018-05-29 18:09:17 DEBUG QCConnectionV1:14 - Project Successfully DisConneted..
+2018-05-29 18:16:49 DEBUG QCConnectionV1:9 - Entering Main Method .. 
+2018-05-29 18:16:49 INFO  QCInitalConnection:38 - >>>>>>>>>> Constructor Calling <<<<<<<<<<<
+2018-05-29 18:16:49 INFO  QCPropertyInputData:46 - Inside loadPropertyFile method
+2018-05-29 18:16:49 DEBUG QCInitalConnection:46 - Initial values added
+2018-05-29 18:16:49 INFO  QCInitalConnection:54 - >>>>>>>>>> Entering DoInit Method <<<<<<<<<<<
+2018-05-29 18:17:00 DEBUG QCInitalConnection:58 - true Connected
+2018-05-29 18:17:13 DEBUG QCInitalConnection:61 - true Logged In !!!
+2018-05-29 18:17:13 DEBUG QCInitalConnection:63 - Db Name fedex_central_defects_db
+2018-05-29 18:17:14 INFO  QCPropertyInputData:17 - Inside getInputData method
+2018-05-29 18:17:14 INFO  QCPropertyInputData:46 - Inside loadPropertyFile method
+2018-05-29 18:17:14 INFO  QCPropertyInputData:46 - Inside loadPropertyFile method
+2018-05-29 18:17:14 DEBUG QCPropertyInputData:25 - Project Name [WGRT, WGRM] Size 2
+2018-05-29 18:17:14 DEBUG QCPropertyInputData:34 - i0 wgrt.assigned.team.filter
+2018-05-29 18:17:14 DEBUG QCPropertyInputData:34 - i0 wgrt.status.filters
+2018-05-29 18:17:14 DEBUG QCPropertyInputData:34 - i1 wgrm.assigned.team.filter
+2018-05-29 18:17:14 DEBUG QCPropertyInputData:34 - i1 wgrm.status.filters
+2018-05-29 18:17:14 DEBUG QCInitalConnection:93 - Inside getBugList >> initialPropertyData >> {wgrm.status.filters=Not Cancelled And  Not Closed, wgrt.status.filters=Not Cancelled And  Not Closed, wgrt.assigned.team.filter=Not DA-Marketing, wgrm.assigned.team.filter=Not DA-Marketing}Size2
+2018-05-29 18:17:17 DEBUG QCInitalConnection:110 - Total Bug List12
+2018-05-29 18:17:21 DEBUG QCInitalConnection:110 - Total Bug List2
+2018-05-29 18:17:21 DEBUG QCInitalConnection:121 - Calling Generate Excel method Calling >>
+2018-05-29 18:17:21 DEBUG QCGenerateExcel:44 - Calling Create Excel
+2018-05-29 18:17:21 DEBUG QCGenerateExcel:91 - Writesheet.xlsx written successfully
+2018-05-29 18:17:23 DEBUG QCConnectionV1:12 - Project Successfully Conneted..
+2018-05-29 18:17:23 DEBUG QCInitalConnection:192 - >>>>>>>>>> Entering DoInit Method <<<<<<<<<<<
+2018-05-29 18:17:25 DEBUG QCConnectionV1:14 - Project Successfully DisConneted..
+2018-05-29 18:18:15 DEBUG QCConnectionV1:9 - Entering Main Method .. 
+2018-05-29 18:18:15 INFO  QCInitalConnection:38 - >>>>>>>>>> Constructor Calling <<<<<<<<<<<
+2018-05-29 18:18:15 INFO  QCPropertyInputData:46 - Inside loadPropertyFile method
+2018-05-29 18:18:15 DEBUG QCInitalConnection:46 - Initial values added
+2018-05-29 18:18:15 INFO  QCInitalConnection:54 - >>>>>>>>>> Entering DoInit Method <<<<<<<<<<<
+2018-05-29 18:18:17 DEBUG QCInitalConnection:58 - true Connected
+2018-05-29 18:18:30 DEBUG QCInitalConnection:61 - true Logged In !!!
+2018-05-29 18:18:30 DEBUG QCInitalConnection:63 - Db Name fedex_central_defects_db
+2018-05-29 18:18:31 INFO  QCPropertyInputData:17 - Inside getInputData method
+2018-05-29 18:18:31 INFO  QCPropertyInputData:46 - Inside loadPropertyFile method
+2018-05-29 18:18:31 INFO  QCPropertyInputData:46 - Inside loadPropertyFile method
+2018-05-29 18:18:31 DEBUG QCPropertyInputData:25 - Project Name [WGRT, WGRM] Size 2
+2018-05-29 18:18:31 DEBUG QCPropertyInputData:34 - i0 wgrt.assigned.team.filter
+2018-05-29 18:18:31 DEBUG QCPropertyInputData:34 - i0 wgrt.status.filters
+2018-05-29 18:18:31 DEBUG QCPropertyInputData:34 - i1 wgrm.assigned.team.filter
+2018-05-29 18:18:31 DEBUG QCPropertyInputData:34 - i1 wgrm.status.filters
+2018-05-29 18:18:31 DEBUG QCInitalConnection:93 - Inside getBugList >> initialPropertyData >> {wgrm.status.filters=Not Cancelled And  Not Closed, wgrt.status.filters=Not Cancelled And  Not Closed, wgrt.assigned.team.filter=Not DA-Marketing, wgrm.assigned.team.filter=Not DA-Marketing}Size2
+2018-05-29 18:18:35 DEBUG QCInitalConnection:110 - Total Bug List12
+2018-05-29 18:18:38 DEBUG QCInitalConnection:110 - Total Bug List2
+2018-05-29 18:18:38 DEBUG QCInitalConnection:121 - Calling Generate Excel method Calling >>
+2018-05-29 18:18:39 DEBUG QCGenerateExcel:44 - Calling Create Excel
+2018-05-29 18:18:39 DEBUG QCGenerateExcel:91 - Writesheet.xlsx written successfully
+2018-05-29 18:18:40 DEBUG QCConnectionV1:12 - Project Successfully Conneted..
+2018-05-29 18:18:40 DEBUG QCInitalConnection:192 - >>>>>>>>>> Entering DoInit Method <<<<<<<<<<<
+2018-05-29 18:18:41 DEBUG QCConnectionV1:14 - Project Successfully DisConneted..
+2018-05-29 18:19:48 DEBUG QCConnectionV1:9 - Entering Main Method .. 
+2018-05-29 18:19:48 INFO  QCInitalConnection:38 - >>>>>>>>>> Constructor Calling <<<<<<<<<<<
+2018-05-29 18:19:48 INFO  QCPropertyInputData:46 - Inside loadPropertyFile method
+2018-05-29 18:19:48 DEBUG QCInitalConnection:46 - Initial values added
+2018-05-29 18:19:48 INFO  QCInitalConnection:54 - >>>>>>>>>> Entering DoInit Method <<<<<<<<<<<
+2018-05-29 18:19:50 DEBUG QCInitalConnection:58 - true Connected
+2018-05-29 18:20:02 DEBUG QCInitalConnection:61 - true Logged In !!!
+2018-05-29 18:20:02 DEBUG QCInitalConnection:63 - Db Name fedex_central_defects_db
+2018-05-29 18:20:02 INFO  QCPropertyInputData:17 - Inside getInputData method
+2018-05-29 18:20:02 INFO  QCPropertyInputData:46 - Inside loadPropertyFile method
+2018-05-29 18:20:02 INFO  QCPropertyInputData:46 - Inside loadPropertyFile method
+2018-05-29 18:20:02 DEBUG QCPropertyInputData:25 - Project Name [WGRT, WGRM] Size 2
+2018-05-29 18:20:02 DEBUG QCPropertyInputData:34 - i0 wgrt.assigned.team.filter
+2018-05-29 18:20:02 DEBUG QCPropertyInputData:34 - i0 wgrt.status.filters
+2018-05-29 18:20:02 DEBUG QCPropertyInputData:34 - i1 wgrm.assigned.team.filter
+2018-05-29 18:20:02 DEBUG QCPropertyInputData:34 - i1 wgrm.status.filters
+2018-05-29 18:20:02 DEBUG QCInitalConnection:93 - Inside getBugList >> initialPropertyData >> {wgrm.status.filters=Not Cancelled And  Not Closed, wgrt.status.filters=Not Cancelled And  Not Closed, wgrt.assigned.team.filter=Not DA-Marketing, wgrm.assigned.team.filter=Not DA-Marketing}Size2
+2018-05-29 18:20:05 DEBUG QCInitalConnection:110 - Total Bug List12
+2018-05-29 18:20:09 DEBUG QCInitalConnection:110 - Total Bug List2
+2018-05-29 18:20:09 DEBUG QCInitalConnection:121 - Calling Generate Excel method Calling >>
+2018-05-29 18:20:09 DEBUG QCGenerateExcel:41 - Calling Create Excel
+2018-05-29 18:20:09 DEBUG QCGenerateExcel:88 - Writesheet.xlsx written successfully
+2018-05-29 18:20:11 DEBUG QCConnectionV1:12 - Project Successfully Conneted..
+2018-05-29 18:20:11 DEBUG QCInitalConnection:192 - >>>>>>>>>> Entering DoInit Method <<<<<<<<<<<
+2018-05-29 18:20:13 DEBUG QCConnectionV1:14 - Project Successfully DisConneted..
+2018-05-30 16:53:00 DEBUG QCConnectionV1:9 - Entering Main Method .. 
+2018-05-30 16:53:00 INFO  QCInitalConnection:38 - >>>>>>>>>> Constructor Calling <<<<<<<<<<<
+2018-05-30 16:53:00 INFO  QCPropertyInputData:46 - Inside loadPropertyFile method
+2018-05-30 16:53:00 DEBUG QCInitalConnection:46 - Initial values added
+2018-05-30 16:53:00 INFO  QCInitalConnection:54 - >>>>>>>>>> Entering DoInit Method <<<<<<<<<<<
+2018-05-30 16:53:03 DEBUG QCInitalConnection:58 - true Connected
+2018-05-30 16:53:23 DEBUG QCInitalConnection:61 - true Logged In !!!
+2018-05-30 16:53:23 DEBUG QCInitalConnection:63 - Db Name fedex_central_defects_db
+2018-05-30 16:53:23 INFO  QCPropertyInputData:17 - Inside getInputData method
+2018-05-30 16:53:23 INFO  QCPropertyInputData:46 - Inside loadPropertyFile method
+2018-05-30 16:53:23 INFO  QCPropertyInputData:46 - Inside loadPropertyFile method
+2018-05-30 16:53:23 DEBUG QCPropertyInputData:25 - Project Name [WGRT, WGRM] Size 2
+2018-05-30 16:53:23 DEBUG QCPropertyInputData:34 - i0 wgrt.assigned.team.filter
+2018-05-30 16:53:23 DEBUG QCPropertyInputData:34 - i0 wgrt.status.filters
+2018-05-30 16:53:23 DEBUG QCPropertyInputData:34 - i1 wgrm.assigned.team.filter
+2018-05-30 16:53:23 DEBUG QCPropertyInputData:34 - i1 wgrm.status.filters
+2018-05-30 16:53:23 DEBUG QCInitalConnection:93 - Inside getBugList >> initialPropertyData >> {wgrm.status.filters=Not Cancelled And  Not Closed, wgrt.status.filters=Not Cancelled And  Not Closed, wgrt.assigned.team.filter=Not DA-Marketing, wgrm.assigned.team.filter=Not DA-Marketing}Size2
+2018-05-30 16:53:29 DEBUG QCInitalConnection:110 - Total Bug List13
+2018-05-30 16:53:33 DEBUG QCInitalConnection:110 - Total Bug List2
+2018-05-30 16:53:33 DEBUG QCInitalConnection:121 - Calling Generate Excel method Calling >>
+2018-05-30 16:53:36 DEBUG QCGenerateExcel:41 - Calling Create Excel
+2018-05-30 16:53:38 DEBUG QCGenerateExcel:86 - Writesheet.xlsx written successfully
+2018-05-30 16:53:44 DEBUG QCConnectionV1:12 - Project Successfully Conneted..
+2018-05-30 16:53:44 DEBUG QCInitalConnection:192 - >>>>>>>>>> Entering DoInit Method <<<<<<<<<<<
+2018-05-30 16:53:46 DEBUG QCConnectionV1:14 - Project Successfully DisConneted..
+2018-06-08 11:22:19 DEBUG QCConnectionV1:9 - Entering Main Method .. 
+2018-06-08 11:22:19 INFO  QCInitalConnection:40 - >>>>>>>>>> Constructor Calling <<<<<<<<<<<
+2018-06-08 11:22:19 INFO  QCPropertyInputData:46 - Inside loadPropertyFile method
+2018-06-08 11:22:19 DEBUG QCInitalConnection:48 - Initial values added
+2018-06-08 11:22:19 DEBUG QCConnectionV1:12 - Project Successfully Conneted..
+2018-06-08 11:22:19 DEBUG QCConnectionV1:14 - Project Successfully DisConneted..
