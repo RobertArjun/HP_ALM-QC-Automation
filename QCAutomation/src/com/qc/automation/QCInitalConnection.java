@@ -8,7 +8,9 @@ import java.util.Date;
 import java.util.HashMap;
 import java.util.Iterator;
 import java.util.List;
+import java.util.Map;
 import java.util.Properties;
+import java.util.Set;
 
 import org.apache.log4j.Logger;
 import org.jsoup.Jsoup;
@@ -20,8 +22,6 @@ import qca_clinet.IBugFactory;
 import qca_clinet.IList;
 import qca_clinet.ITDConnection;
 import qca_clinet.ITDFilter;
-
-
 
 import com4j.Com4jObject;
 import com4j.ComException;
@@ -35,21 +35,24 @@ public class QCInitalConnection {
 	SimpleDateFormat formatter = new SimpleDateFormat("yyyy-MM-dd");
 	QCCommonData commonData = new QCCommonData();
 	Properties prop = null;
-	
+
 	public QCInitalConnection() {
 		logger.info(">>>>>>>>>> Constructor Calling <<<<<<<<<<<");
-		 prop = QCPropertyInputData.loadPropertyFile(commonData.COMMON_PROPERTY_LOCATION);
-		 if(prop != null){
-			 commonData.setDomain(prop.getProperty("domain").toString().trim());
-			 commonData.setPassword(prop.getProperty("password").toString().trim());
-			 commonData.setUsername(prop.getProperty("username").toString().trim());
-			 commonData.setProject(prop.getProperty("project").toString().trim());
-			 commonData.setUrl(prop.getProperty("url").toString().trim());
-			 logger.debug("Initial values added");
-		 }
-		 else{
-			 logger.debug("not loaded");
-		 }
+		prop = QCPropertyInputData
+				.loadPropertyFile(commonData.COMMON_PROPERTY_LOCATION);
+		if (prop != null) {
+			commonData.setDomain(prop.getProperty("domain").toString().trim());
+			commonData.setPassword(prop.getProperty("password").toString()
+					.trim());
+			commonData.setUsername(prop.getProperty("username").toString()
+					.trim());
+			commonData
+					.setProject(prop.getProperty("project").toString().trim());
+			commonData.setUrl(prop.getProperty("url").toString().trim());
+			logger.debug("Initial values added");
+		} else {
+			logger.debug("not loaded");
+		}
 	}
 
 	public void doInit() {
@@ -58,8 +61,9 @@ public class QCInitalConnection {
 			connection = ClassFactory.createTDConnection();
 			connection.initConnectionEx(commonData.getUrl());
 			logger.debug(connection.connected() + " Connected");
-			connection.connectProjectEx(commonData.getDomain(), commonData.getProject(),
-					commonData.getUsername(), commonData.getPassword());
+			connection.connectProjectEx(commonData.getDomain(),
+					commonData.getProject(), commonData.getUsername(),
+					commonData.getPassword());
 			logger.debug(connection.connected() + " Logged In !!!");
 			// Get the DB name
 			logger.debug("Db Name " + connection.dbName());
@@ -73,14 +77,14 @@ public class QCInitalConnection {
 		}
 	}
 
-	private void getBugDetailsByBugID() {
+/*	private void getBugDetailsByBugID() {
 		// find defect based on defect id
 		IBugFactory bugfactory = connection.bugFactory().queryInterface(
 				IBugFactory.class);
 		IBug bug = bugfactory.item(454368).queryInterface(IBug.class);
 		logger.debug(bug.assignedTo());
 
-	}
+	}*/
 
 	private void getBugList() {
 		IBugFactory bugfactory = connection.bugFactory().queryInterface(
@@ -88,28 +92,48 @@ public class QCInitalConnection {
 		IList buglist = null;
 		ITDFilter filter = null;
 		List<QCBug> defects = null;
-		HashMap<String, String> initialPropertyData = null;
+		Map<String, String> initialPropertyData = null;
 		QCGenerateExcel generate = new QCGenerateExcel();
 		try {
 			initialPropertyData = QCPropertyInputData.getInputData(commonData);
 			logger.debug("Inside getBugList >> initialPropertyData >> "
 					+ initialPropertyData + "Size"
 					+ commonData.getProjectNames().size());
+
 			if (initialPropertyData != null) {
 				defects = new ArrayList<>();
 				int count = 0;
 				for (int i = 0; i < commonData.getProjectNames().size(); i++) {
+					Iterator<Map.Entry<String, String>> keyitr = initialPropertyData
+							.entrySet().iterator();
 					filter = bugfactory.filter()
 							.queryInterface(ITDFilter.class);
 					filter.filter(commonData.BG_PROJECT, commonData
 							.getProjectNames().get(i).trim().toUpperCase()
 							+ "*");
-					filter.filter(commonData.BG_STATUS,
-							"Not Cancelled And  Not Closed");
-					filter.filter(commonData.BG_USER_25, "Not DA-Marketing");
+					while (keyitr.hasNext()) {
+						Map.Entry<String, String> entry = keyitr.next();
+						if (entry.getKey().startsWith(
+								commonData.getProjectNames().get(i)
+										.toLowerCase())) {
+							if (entry.getKey().contains("status")) {
+								filter.filter(commonData.BG_STATUS,
+										entry.getValue());
+								keyitr.remove();
+							}
+							if (entry.getKey().contains("assigned")) {
+								filter.filter(commonData.BG_USER_25,
+										entry.getValue());
+								keyitr.remove();
+							}
+
+						}
+					}
+
 					buglist = filter.newList();
 					Iterator itr = buglist.iterator();
-					logger.debug("Total Bug List" + buglist.count());
+					logger.debug(commonData
+							.getProjectNames().get(i).trim().toUpperCase() + " Total Bug List :" + buglist.count());
 					while (itr.hasNext()) {
 						Com4jObject comobj = (Com4jObject) itr.next();
 						IBug bug = comobj.queryInterface(IBug.class);
@@ -121,7 +145,7 @@ public class QCInitalConnection {
 					}
 				}
 				logger.debug("Calling Generate Excel method Calling >>");
-				generate.createExcel(defects,prop);
+				generate.createExcel(defects, prop);
 			}
 
 		} catch (Exception e) {
