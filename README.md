@@ -37,3 +37,26 @@ Once generated source then add com4j.jar file then export as jar,after that we n
 you can add it any where you want, when you run your project, configure the classpath and add the location of the log4j.properties files by clicking on: Run->Run Configuration -> [classpath tab] -> click on user Entries -> Advanced -> Select Add Folder -> select the location of your log4j.properties file
 and then -> OK -> run
 and it should get loaded
+
+(or)
+There are three ways l know.
+	1. Add log4j.properties to app.jar
+	2. Put the log4j.properties to the "folder" (where the JAR exists) and change the class-path to .lib/log4j-1.2.15.jar.
+	3. Put the log4j.properties to the folder named "conf" for example, and change the class-path to ./conf/.
+
+# Run Jar file when System is logged in:
+	1. Create bat file for execute the jar
+	@ECHO OFF
+	cd..
+	d:
+	cd Robert/Automation
+	set path="C:\Program Files\Java\jdk1.8.0_72\bin"
+	start java -jar alm-defects-automation.jar
+	pause 
+	
+	2. Second create the shortcut for bat file
+	Right click of desktop > new > shortcut > browse the bat file > click finsh
+	
+	3. Run as startup program ( Windows)
+	Start > All program > find the startup folder > open > then paste the shortcut file. Restart the system
+
